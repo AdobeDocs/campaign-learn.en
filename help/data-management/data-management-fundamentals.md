@@ -1,7 +1,7 @@
 ---
 title: Fundamentals of data management with Adobe Campaign workflows
 description: Learn what targeting dimensions and working tables are, and how Adobe Campaign manages data across different data sources.
-feature: Data Management.
+feature: Data Management
 kt: 9505
 thumbnail: 339992.jpg
 doc-type: feature video
