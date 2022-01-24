@@ -20,6 +20,10 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
+* **[Fundamentals of data management with workflows](/help/data-management/data-management-fundamentals.md)**
+
+  *Learn what targeting dimensions and working tables are, and how Adobe Campaign manages data across different data sources.*
+
 * **[API staging mechanism with FFDA](/help/data-management/api-staging-mechanism.md)**
 
   *Learn how the API staging mechanism with full FDA works.*
@@ -27,10 +31,6 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 * **[Create and extend a schema](/help/data-management/create-and-extend-a-schema.md)**
 
   *Learn how to create a new schema and extend an existing schema.*
-  
-* **[Integrate with Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)**
-  
-  *Learn how to import and export Campaign and Experience Cloud data, allowing for the communication between the two solutions.*
   
 
 ## Staff Picks
