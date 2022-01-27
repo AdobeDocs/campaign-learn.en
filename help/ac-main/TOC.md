@@ -71,6 +71,7 @@ breadcrumb-title: Tutorials
     + [Create an approval activity in a workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Data management {#data-management}
   + [Fundamentals of data management with workflows](/help/data-management/data-management-fundamentals.md)
+  + [Change the data source](/help/data-management/change-data-source.md)
   + [Use the update list activity](/help/process-management/use-the-update-list-activity.md)
   + [Configure enrichment activities](/help/process-management/enrichment-activity.md)
   + [Create and extend a schema](/help/data-management/create-and-extend-a-schema.md)
