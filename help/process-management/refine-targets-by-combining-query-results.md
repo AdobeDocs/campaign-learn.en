@@ -16,9 +16,3 @@ exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 Learn how to refine your target by using intersection or union activities to combine query results in a workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12)
-
-## Additional resources
-
-* [Target profiles in a workflow](/help/profile-management/target-profiles-in-a-workflow.md)
-* [Refine targets by excluding query results](/help/process-management/refine-targets-by-excluding-query-results.md)
-* [Use the update list activity to create a list with a workflow](/help/process-management/use-the-update-list-activity.md)

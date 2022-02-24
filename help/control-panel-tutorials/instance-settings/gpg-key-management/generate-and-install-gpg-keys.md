@@ -17,7 +17,4 @@ Learn how to generate and install a public/private key pair on a [!DNL Campaign]
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 
-## Additional resources
-
-* [GPG Key management (videos)](./gpg-key-management-overview.md)
-* [GPG key management (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
+See the [product documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html) for more information.

@@ -6,6 +6,7 @@ kt: 9094
 thumbnail: 336643.jpg
 role: Admin, Developer
 level: Experienced
+recommendations: noDisplay
 exl-id: 349532f1-92d6-4774-8e1c-c3a0f280ad3e
 ---
 # Integrate with Experience Platform - Overview

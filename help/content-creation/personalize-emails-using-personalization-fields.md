@@ -18,8 +18,3 @@ Personalization fields are used for first-level personalization of the content o
 Learn how to add a personalization field to the subject line and the content of an email delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
-
-## Additional Resources
-
-* [Personalize emails using dynamic content blocks](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [Create a multilingual newsletter using conditional content](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)

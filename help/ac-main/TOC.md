@@ -80,9 +80,9 @@ breadcrumb-title: Tutorials
   + [API staging mechanism](/help/data-management/api-staging-mechanism.md)
   + [Tutorial: Use SOAP APIs](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
 + Connect with other solutions {#connect}
-  + [Big data management on Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
-  + [Integrate with Dynamics 365](/help/connect/dynamics365-integration.md)
   + [Integrate with Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+  + Integrate with Experience Manager {#AEM}
+  + [Integrate with Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
   + [Access built-in reports](/help/reporting/access-built-in-reports.md)
   + [Generate a descriptive analysis report](/help/reporting/generate-a-descriptive-analysis-report.md)

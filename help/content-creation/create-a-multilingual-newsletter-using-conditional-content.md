@@ -18,8 +18,3 @@ By configuring conditional content fields, you can create advanced personalizati
 Learn how to add conditional content to a delivery on the example of a multilingual newsletter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12)
-
-## Additional Resources
-
-* [Personalize emails using dynamic content blocks](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [Personalize emails using personalization fields](/help/content-creation/personalize-emails-using-personalization-fields.md)

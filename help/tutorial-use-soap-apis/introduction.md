@@ -6,6 +6,7 @@ kt: 7772
 thumbnail: 336639.jpg
 role: Admin, Developer
 level: Experienced
+recommendations: noDisplay
 exl-id: ad2e46b7-d5d1-4530-b126-62b8446d7e31
 ---
 # Use SOAP APIs in workflows - Introduction

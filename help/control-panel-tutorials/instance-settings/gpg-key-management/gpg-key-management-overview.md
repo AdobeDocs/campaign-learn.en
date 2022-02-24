@@ -16,7 +16,3 @@ Learn how to generate and install a public/private key pair on a specified [!DNL
 1. [Generate and install GPG keys for data encryption](./generate-and-install-gpg-keys.md)
 2. [Use a GPG key to encrypt data](./use-a-gpg-key-to-encrypt-data.md)
 3. [Decrypt data](./decrypt-data.md)
-
-## Additional resources
-
-* [GPG key management (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)

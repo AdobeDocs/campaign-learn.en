@@ -23,7 +23,4 @@ The video below explains how to activate AMP in Adobe Campaign and showcases the
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
-## Additional resources
-
-* [AMP editor](https://playground.amp.dev/)
-* [Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=en#about-amp-for-email)
+See the [product documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=en#about-amp-for-email) for more details.

@@ -18,8 +18,3 @@ exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
 This video explains how to configure and install the Adobe Experience Platform Mobile SDK.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12)
-
-
-## Additional resources
-
-* [Configure Campaign Classic v7 extension in Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)

@@ -16,8 +16,3 @@ exl-id: efe43a2a-4e47-4054-9e41-23d06a72fe4b
 Understand the different types of dynamic content and learn how create and apply personalization blocks and conditional statements to a delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12)
-
-## Additional Resources
-
-* [Personalize emails using dynamic content blocks](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [Personalize emails using personalization fields](/help/content-creation/personalize-emails-using-personalization-fields.md)

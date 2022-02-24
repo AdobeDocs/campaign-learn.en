@@ -17,7 +17,3 @@ Fatigue management controls frequency and quantity of messaging to avoid over-so
 Learn how to implement fatigue management in Adobe Campaign by using filters.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12)
-
-## Additional resources
-
-* [About campaign typologies](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=en)

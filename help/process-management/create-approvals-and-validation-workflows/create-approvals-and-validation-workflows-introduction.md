@@ -7,6 +7,7 @@ activity: setup
 team: TM
 role: User
 level: Experienced
+recommendations: noDisplay
 exl-id: fa4c2180-15bb-424b-a54e-c7d744385fb6
 ---
 # Create approvals and validation workflows - Introduction

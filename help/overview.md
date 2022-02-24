@@ -6,6 +6,7 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
+recommendations: noDisplay, noCatalog
 ---
 # Adobe Campaign V8 Tutorials - Overview
 
@@ -94,6 +95,4 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 </table>
 
-## Additional resources
-
-* [Documentation](https://experienceleague.adobe.com/docs/campaign-v8.html)
+Please see the [product documentation](https://experienceleague.adobe.com/docs/campaign-v8.html) for more details on this feature.
