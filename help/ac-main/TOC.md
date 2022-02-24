@@ -81,7 +81,7 @@ breadcrumb-title: Tutorials
   + [Tutorial: Use SOAP APIs](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
 + Connect with other solutions {#connect}
   + [Integrate with Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
-  + [Integrate with Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html))
+  + [Integrate with Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
   + [Integrate with Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
   + [Access built-in reports](/help/reporting/access-built-in-reports.md)
