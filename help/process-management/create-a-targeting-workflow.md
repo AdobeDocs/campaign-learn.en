@@ -11,6 +11,7 @@ role: User
 level: Beginner
 exl-id: 5a8382f0-0662-46cd-90ff-aaf27a7c4fd9
 ---
+
 # Create a targeting workflow
 
 Adobe Campaign uses workflows to carry out targeting campaigns, build campaigns or execute Adobe Campaign technical processes.
