@@ -20,7 +20,7 @@ A template can systematically include:
 * Typologies
 * Sender and reply-to addresses
 * Basic personalization blocks
-* Links to mirror pages and unsubscription
+* Links to mirror pages and unsubscription links
 * Content, a company logo, or signature
 * Other delivery properties, such as resource validity, batch quantities, ...
 
