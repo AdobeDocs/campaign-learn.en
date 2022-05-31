@@ -15,6 +15,8 @@ exl-id: 67b35ad4-bd46-441a-a3e3-402937678770
 
 Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance, allow listing IP addresses, or managing GPG keys.
 
+See the [Release Notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html) information on the latest product releases.
+
 ## Staff Picks
 
 <table>
