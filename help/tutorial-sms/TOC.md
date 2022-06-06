@@ -6,4 +6,4 @@ breadcrumb-title: SMS setup
 
 # Tutorial - SMS setup{#configure-sms-account}
 
-+ [Introduction to SMS](/help/tutorial-sms/introduction-sms.md)
++ [Introduction to SMS](/help/tutorial-sms/introduction-to-sms.md)
