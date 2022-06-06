@@ -36,9 +36,9 @@ To access the Control Panel, go to Experience Cloud Home: [https://experienceclo
 
 Before you get started, complete the following prerequisites:
 
-### Confirm [!DNL IMS Org ID]
+### Confirm your organization's ID
 
-The following video describes where you can look up your instance's [!DNL IMS org ID].
+The following video describes where you can look up your organization's ID.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 

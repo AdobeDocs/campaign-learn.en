@@ -3,6 +3,7 @@ title: Configure enrichment activities
 description: Learn how to configure an enrichment activity based on delivery log information.
 feature: Workflows, Enrichment Activity
 kt: 7990
+thumbnail: 342639.jpg
 doc-type: feature video
 activity: use
 team: TM
@@ -16,4 +17,4 @@ The enrichment activity is a workflow object that adds data to the working table
 
 Learn how to configure an enrichment activity based on delivery log information.
 
->[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12)

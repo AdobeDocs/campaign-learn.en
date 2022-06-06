@@ -9,6 +9,7 @@ activity: setup
 team: TM
 role: Admin, Developer
 level: Experienced
+exl-id: 255dbda3-df58-4b64-8db8-4fbac503a692
 ---
 # Synchronize & send an Experience Manager email delivery in Campaign
 

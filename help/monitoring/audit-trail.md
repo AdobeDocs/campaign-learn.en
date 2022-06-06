@@ -5,6 +5,7 @@ feature: Audit Trail
 kt: 7969
 doc-type: feature video
 activity: understand
+thumbnail: 342081.jpg
 team: PM
 role: Admin
 level: Beginner
@@ -20,6 +21,6 @@ exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
 
 Learn how to access the Audit Trail logs and which settings can be configured.
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12)
 
 More information can be found in the [Audit Trail Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).

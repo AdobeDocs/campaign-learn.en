@@ -1,8 +1,9 @@
 ---
-title: How to set up recurring and continuous email campaigns
+title: Create recurring and continuous email deliveries
 description: Learn how to set up a recurring and a continuous delivery and understand the differences between the two approaches.
 feature: Workflows
 kt: 7982
+thumbnail: 342637.jpg
 doc-type: feature video
 activity: use
 team: TM
@@ -10,7 +11,7 @@ role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
 ---
-# How to set up recurring and continuous email campaigns
+# Create recurring and continuous email deliveries
 
 This tutorial explains how to set up a recurring and a continuous delivery and the differences between the two approaches.  
 
@@ -32,10 +33,10 @@ The recurring and continuous deliveries differ in the way contact data is manage
 
 The video explains how to configure a recurring delivery and a scheduler activity.
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12)
 
 ## How to set up a continuous delivery {#how-to-set-up-a-continuous-delivery}
 
 This video shows how to configure a continuous delivery with an incremental query.
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12)

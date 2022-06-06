@@ -1,6 +1,7 @@
 ---
 title: Target profiles in a workflow
 description: Understand the use of campaign workflows and learn how to create a workflow and use filtering conditions to target profiles in a workflow.
+feauture: Profiles
 kt: 7842
 thumbnail: 334300.jpg
 doc-type: feature video

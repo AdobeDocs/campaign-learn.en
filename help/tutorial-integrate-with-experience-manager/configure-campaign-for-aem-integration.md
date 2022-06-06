@@ -1,5 +1,5 @@
 ---
-title: Configure the Campaign for the Experience Manager integration
+title: Configure Campaign for the Experience Manager integration
 description: Learn how to set up the integration between Experience Manager and Campaign, including important settings to look for and potential 'gotchas' to avoid.
 feature: Experience Manager Integration
 kt: 9594
@@ -9,8 +9,9 @@ activity: setup
 team: TM
 role: Admin, Developer
 level: Experienced
+exl-id: 44b12535-775e-4b67-ae75-4cbdc4ce79fe
 ---
-# Configure the Campaign for the Experience Manager integration
+# Configure Campaign for the Experience Manager integration
 
 Learn how to set up the integration between Experience Manager and Campaign, including important settings to look for and potential 'gotchas' to avoid.
 

@@ -8,6 +8,7 @@ doc-type: feature video
 team: TM
 role: Admin, Developer
 level: Beginner
+exl-id: 48ea5e79-29b8-43a4-9cb4-d6dcb13e9068
 ---
 # Fundamentals of data management with Adobe Campaign workflows
 

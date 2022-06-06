@@ -19,7 +19,7 @@ Learn how to troubleshoot Control Panel.
 ### Symptom: Unable to log in to Experience Cloud
 
 **What to do:**
-The user must locate their IMS Org ID (xxx). The Administrator must add the user to the Product Profile “Campaign-xxx-Admins”  for each instance that they would like to manage. If the user is an admin of all instances, they must add themselves as users.
+The user must locate their organization's ID (xxx). The Administrator must add the user to the Product Profile “Campaign-xxx-Admins”  for each instance that they would like to manage. If the user is an admin of all instances, they must add themselves as users.
 
 ### Symptom: Links in the Experience Cloud Home to access [!UICONTROL Control Panel] do not appear for a user 
 
@@ -41,7 +41,7 @@ The Administrator must add the user to the Product Profile _Campaign-xxx-Admins_
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Check IMS Org ID (00:26 min)*
+*Check your organization's ID (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 

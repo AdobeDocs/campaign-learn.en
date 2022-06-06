@@ -10,7 +10,7 @@ level: Experienced
 
 # Adobe Campaign Control Panel - Tutorials {#control-panel}
 
-+ [Overview](/help/control-panel-tutorials/control-panel-overview.md)
++ [Control Panel](/help/control-panel-tutorials/control-panel-overview.md)
 + [Get started with the Control Panel](/help/control-panel-tutorials/get-started.md)
 + SFTP management {#sftp-management}
     + [Monitor server capacity](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
