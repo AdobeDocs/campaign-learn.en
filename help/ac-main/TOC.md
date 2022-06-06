@@ -43,6 +43,7 @@ breadcrumb-title: Tutorials
     + [Design emails for deliverability](/help/send-messages/email/design-emails-for-deliverability.md)
     + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
   + SMS {#sms}
+    + [Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/configure-sms-account/overview.html)
     + [Create an SMS delivery](/help/send-messages/mobile/create-an-sms-delivery.md)
   + Push {#push}
     + [Install the Mobile App Channel](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -76,7 +77,6 @@ breadcrumb-title: Tutorials
   + [Use the update list activity](/help/process-management/use-the-update-list-activity.md)
   + [Configure enrichment activities](/help/process-management/enrichment-activity.md)
   + [Create and extend a schema](/help/data-management/create-and-extend-a-schema.md)
-  + [Import profiles](/help/data-management/import-profiles.md)
   + [Data replication](/help/data-management/data-replication.md)
   + [API staging mechanism](/help/data-management/api-staging-mechanism.md)
   + [Tutorial: Use SOAP APIs](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
