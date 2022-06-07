@@ -9,4 +9,4 @@ breadcrumb-title: SMS setup
 + [Tutorial - SMS setup](/help/tutorial-sms/overview.md)
 + [Introduction to SMS](/help/tutorial-sms/introduction-to-sms.md)
 + SMS account set up {#account-set-up}
-  + [Set up an SMS account for a standard SMPP provider](/help/tutorial-sms/set-up-account-for-standard-SMPP-provider.md)
+  + [Set up an SMS account for a standard SMPP provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)
