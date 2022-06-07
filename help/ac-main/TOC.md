@@ -43,7 +43,7 @@ breadcrumb-title: Tutorials
     + [Design emails for deliverability](/help/send-messages/email/design-emails-for-deliverability.md)
     + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
   + SMS {#sms}
-    +  [Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/configure-sms-account/overview.html)
+    +  [Technical tutorials: Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/configure-sms-account/overview.html)
     + [Create an SMS delivery](/help/send-messages/mobile/create-an-sms-delivery.md)
   + Push {#push}
     + [Install the Mobile App Channel](/help/send-messages/mobile/install-the-mobile-app.md)
