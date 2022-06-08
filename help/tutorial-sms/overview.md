@@ -16,9 +16,9 @@ The following topics are covered:
  *Learn how SMS works and how Adobe Campaign sends SMS*
 
 * **[Set up an SMS account for a standard SMPP provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-*Learn how to set up an SMPP account with Adobe Campaign, how to analyze SMS delivery results, and customize the SR processing to your SMPP provider's specifications.*
+*Learn how to adapt the SMS connector to your SMPP provider. Fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
 
-* **[Fine tune the SMS account settings](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
+* **[Adapt SMS connector to your SMPP provider](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
   *Learn how to fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
   
 * **Analysis and troubleshooting**
