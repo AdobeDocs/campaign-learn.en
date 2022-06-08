@@ -21,8 +21,8 @@ The following topics are covered:
 * **[Fine tune the SMS account settings](/help/tutorial-sms/fine-tune-sms-account-settings.md)**
   *Learn how to fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
   
-* **Troubleshoot SMS delivery failures** : Coming soon
-
+* **Troubleshoot SMS delivery failures**
+  Coming soon
 
 >[!NOTE]
 >
