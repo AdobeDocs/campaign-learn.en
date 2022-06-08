@@ -8,6 +8,8 @@ kt: 9743
 
 # Introduction to SMS
 
+![Applies to V7 and V8](../assets/V7-V8-stamp.png)
+
 Learn what SMS is, the role of the SMS service provider, and how Adobe Campaign connects to the service provider. Understand which information is passed through the service provider and which tech notes are available.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12)

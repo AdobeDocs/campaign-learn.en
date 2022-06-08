@@ -8,6 +8,8 @@ kt: 9742
 
 # Set up an SMS account for a standard SMPP provider
 
+![Applies to V7 and V8](../assets/V7-V8-stamp.png)
+
 Learn how to set up an SMPP account with Adobe Campaign, how to analyze SMS delivery results, and customize the SR processing to your SMPP provider's specifications.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12)
