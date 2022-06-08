@@ -1,12 +1,12 @@
 ---
-title: Adapt SMS connector to SMPP provider
+title: Adapt SMS connector to your SMPP provider
 description: Learn how to fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.
 feature: SMS
 thumbnail: 343622.jpg
 kt: 9741
 ---
 
-# Adapt SMS connector to SMPP provider
+# Adapt SMS connector to your SMPP provider
 
 ![Applies to V7, V8](../assets/V7-V8-stamp.png)
 
