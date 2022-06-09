@@ -1,6 +1,6 @@
 ---
 title: Create and manage profiles
-description: Learn how to access profile data, sort and filter profiles and manually create and manage profiles. Understand  compliance  with General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA).
+description: Learn how to access profile data, create profiles, and sort and filter through your creations for easier functionality. You’ll also learn how to be compliant with General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA).
 feature: Profiles
 kt: 7843
 thumbnail: 334111.jpg

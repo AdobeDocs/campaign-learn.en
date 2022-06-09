@@ -93,3 +93,5 @@ breadcrumb-title: Tutorials
   + [Audit Trail](/help/monitoring/audit-trail.md)
 + Administration {#administration}
   + [Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)  
++ Strategy & thought leadership{#strategy}
+  + [Maximize email ROI and best practices for subscriber re-engagement](/help/strategy/campaign-maximize-email-best-practices.md)
