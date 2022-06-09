@@ -21,7 +21,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-* **[Introduction to SMS](/help/tutorial-sms/introduction-to-sms.md)**:
+* **[Introduction to SMS](/help/tutorial-sms/introduction-to-sms.md)**
  *Learn how SMS works and how Adobe Campaign sends SMS*
 
 * **[Set up an SMS account for a standard SMPP provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
