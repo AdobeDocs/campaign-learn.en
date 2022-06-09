@@ -21,18 +21,17 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-* **[Integrate with Adobe Target](/help/connect/target-integration.md)**
+* **[Introduction to SMS](/help/tutorial-sms/introduction-to-sms.md)**:
+ *Learn how SMS works and how Adobe Campaign sends SMS*
 
-  *Learn how to personalize a delivery with dynamic content served from Adobe Target.*
+* **[Set up an SMS account for a standard SMPP provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
+*Learn how to adapt the SMS connector to your SMPP provider. Fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
 
-* **[Integrate with Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
-  
-  *Learn how to connect Adobe Campaign with Adobe Experience Manager to allow you to manage email delivery templates, assets, and forms in Experience Manager.*  
+* **[Adapt SMS connector to your SMPP provider](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
+  *Learn how to fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
 
-* **[Change the data source](/help/data-management/change-data-source.md)**
-
-  *Learn how to change the data source of a workflow working table using the Change Data Source Activity to flexibly manage data across different data sources such as FDA, FFDA, and local database.*
-
+* **[Maximize your email ROI & learn best practices for subscriber re-engagement](/help/strategy/campaign-maximize-email-best-practices.md)**
+  *Learn how to maximize email ROI and learn best practices for subscriber re-engagement. Discover the strategies to improve your subscribers engagement and understand the overall success of your email campaigns.*
 
 ## Staff Picks
 

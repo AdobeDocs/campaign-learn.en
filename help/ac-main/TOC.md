@@ -41,9 +41,8 @@ breadcrumb-title: Tutorials
     + [Use control groups](/help/send-messages/email/use-control-groups.md)
     + [Troubleshoot email delivery issues](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
     + [Design emails for deliverability](/help/send-messages/email/design-emails-for-deliverability.md)
-    + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
   + SMS {#sms}
-    + [Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/configure-sms-account/overview.html)
+    + [Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
     + [Create an SMS delivery](/help/send-messages/mobile/create-an-sms-delivery.md)
   + Push {#push}
     + [Install the Mobile App Channel](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -77,6 +76,7 @@ breadcrumb-title: Tutorials
   + [Use the update list activity](/help/process-management/use-the-update-list-activity.md)
   + [Configure enrichment activities](/help/process-management/enrichment-activity.md)
   + [Create and extend a schema](/help/data-management/create-and-extend-a-schema.md)
+  + [Import profiles](/help/data-management/import-profiles.md)
   + [Data replication](/help/data-management/data-replication.md)
   + [API staging mechanism](/help/data-management/api-staging-mechanism.md)
   + [Tutorial: Use SOAP APIs](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
@@ -93,3 +93,6 @@ breadcrumb-title: Tutorials
   + [Audit Trail](/help/monitoring/audit-trail.md)
 + Administration {#administration}
   + [Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)  
++ Strategy & thought leadership{#strategy}
+  + [Maximize email ROI and best practices for subscriber re-engagement](/help/strategy/campaign-maximize-email-best-practices.md)
+  + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
