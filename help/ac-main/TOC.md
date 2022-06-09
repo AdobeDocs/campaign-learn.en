@@ -77,6 +77,7 @@ breadcrumb-title: Tutorials
   + [Use the update list activity](/help/process-management/use-the-update-list-activity.md)
   + [Configure enrichment activities](/help/process-management/enrichment-activity.md)
   + [Create and extend a schema](/help/data-management/create-and-extend-a-schema.md)
+  + [Import profiles](/help/data-management/import-profiles.md)
   + [Data replication](/help/data-management/data-replication.md)
   + [API staging mechanism](/help/data-management/api-staging-mechanism.md)
   + [Tutorial: Use SOAP APIs](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
@@ -93,3 +94,5 @@ breadcrumb-title: Tutorials
   + [Audit Trail](/help/monitoring/audit-trail.md)
 + Administration {#administration}
   + [Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)  
++ Strategy & thought leadership{#strategy}
+  + [Maximize email ROI and best practices for subscriber re-engagement](/help/strategy/campaign-maximize-email-best-practices.md)
