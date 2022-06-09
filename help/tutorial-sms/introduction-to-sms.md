@@ -4,8 +4,8 @@ description: Learn what SMS is and how Campaign handles SMS
 feature: SMS
 thumbnail: 340957.jpg
 kt: 9743
+exl-id: 267e8394-7499-45ef-8394-b216c513649a
 ---
-
 # Introduction to SMS
 
 ![Applies to V7 and V8](../assets/V7-V8-stamp.png)

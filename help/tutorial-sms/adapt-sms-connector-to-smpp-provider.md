@@ -4,8 +4,8 @@ description: Learn how to fine tune your SMS settings to handle connection limit
 feature: SMS
 thumbnail: 343622.jpg
 kt: 9741
+exl-id: e84d43a8-6553-4657-9383-5ea91867e811
 ---
-
 # Adapt SMS connector to your SMPP provider
 
 ![Applies to V7, V8](../assets/V7-V8-stamp.png)

@@ -2,8 +2,8 @@
 title: Technical Tutorial - Set up SMS for Adobe Campaign
 description: Learn how to configure an SMS account for SMTP providers and how to analyze and troubleshoot the configuration.
 feature: SMS
+exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
 ---
-
 # Technical Tutorial - Set up SMS for Adobe Campaign
 
 ![Applies to V7 and V8](../assets/V7-V8-stamp.png)
