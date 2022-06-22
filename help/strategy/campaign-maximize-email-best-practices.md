@@ -130,3 +130,5 @@ Break down this process into two areas of focus: a) email sending patterns and b
 * **Test and learn** - a good testing plan is important to make sure that your efforts are having the desired effect. Learn what's working and what isn't and iterate accordingly.
 
 For a recap of this article and a live demo of implementing re-engagement strategies, watch our [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+
+Learn more about strategy and thought leadership at the [Customer Success](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.
