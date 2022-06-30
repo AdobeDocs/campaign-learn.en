@@ -21,19 +21,22 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-* **[Monitor throughputs and latency](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+* **[Control Panel - Monitor workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target="_blank"}**
+  
+  *Learn how to monitor your workflows' temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.*
+
+* **[Control Panel - Monitor throughputs and latency](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target="_blank"}**
 
   *Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.*
 
-* **[Introduction to SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
- 
+* **[Introduction to SMS](/help/tutorial-sms/introduction-to-sms.md)**
+  
   *Learn how SMS works and how Adobe Campaign sends SMS*
 
-* **[Introduction to SMS](/help/tutorial-sms/introduction-to-sms.md)**
- *Learn how SMS works and how Adobe Campaign sends SMS*
-
 * **[Set up an SMS account for a standard SMPP provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-*Learn how to adapt the SMS connector to your SMPP provider. Fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
+
+  *Learn how to adapt the SMS connector to your SMPP provider. Fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
 
 ## Staff Picks
 

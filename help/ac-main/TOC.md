@@ -92,7 +92,7 @@ breadcrumb-title: Tutorials
   + [Workflow Heatmap](/help/monitoring/workflow-heatmap.md)
   + [Audit Trail](/help/monitoring/audit-trail.md)
 + Administration {#administration}
-  + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target="_blank"} 
+  + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target="_blank"}
 + Strategy & thought leadership{#strategy}
   + [Maximize email ROI and best practices for subscriber re-engagement](/help/strategy/campaign-maximize-email-best-practices.md)
   + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
