@@ -21,17 +21,19 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
+* **[Monitor throughputs and latency](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+  *Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.*
+
+* **[Introduction to SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
+ 
+  *Learn how SMS works and how Adobe Campaign sends SMS*
+
 * **[Introduction to SMS](/help/tutorial-sms/introduction-to-sms.md)**
  *Learn how SMS works and how Adobe Campaign sends SMS*
 
 * **[Set up an SMS account for a standard SMPP provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 *Learn how to adapt the SMS connector to your SMPP provider. Fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
-
-* **[Adapt SMS connector to your SMPP provider](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-  *Learn how to fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
-
-* **[Maximize your email ROI & learn best practices for subscriber re-engagement](/help/strategy/campaign-maximize-email-best-practices.md)**
-  *Learn how to maximize email ROI and learn best practices for subscriber re-engagement. Discover the strategies to improve your subscribers engagement and understand the overall success of your email campaigns.*
 
 ## Staff Picks
 
