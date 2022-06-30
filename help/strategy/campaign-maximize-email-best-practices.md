@@ -131,4 +131,4 @@ Break down this process into two areas of focus: a) email sending patterns and b
 
 For a recap of this article and a live demo of implementing re-engagement strategies, watch our [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Learn more about strategy and thought leadership at the [Customer Success](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Learn more about strategy and thought leadership at the [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.
