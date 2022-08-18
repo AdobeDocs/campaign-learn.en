@@ -10,3 +10,4 @@ breadcrumb-title: Set up SMS
 + [Introduction to SMS](/help/tutorial-sms/introduction-to-sms.md)
 + [Set up an SMS account](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)
 + [Adapt the SMS connector](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)
++ [SMPP protocol deep dive and troubleshooting](help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)
