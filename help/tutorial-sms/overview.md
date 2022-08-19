@@ -21,7 +21,7 @@ The following topics are covered:
 * **[Adapt SMS connector to your SMPP provider](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
   *Learn how to fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
   
-* **[SMPP protocol deep dive and troubleshooting](help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
+* **[SMPP protocol deep dive and troubleshooting](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
   *Learn how SMPP connections are established and how SMPP exchanges data through PDUs. Understand how to troubleshoot connections.*
 
 >[!NOTE]
