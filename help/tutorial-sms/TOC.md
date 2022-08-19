@@ -14,4 +14,3 @@ breadcrumb-title: Set up SMS
 + Return to Tutorials {#campaign-tutorials}
   + [Adobe Campaign V8 Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=en)
   + [Adobe Campaign V7 Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
-  + [Adobe Campaign Standard Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en)
