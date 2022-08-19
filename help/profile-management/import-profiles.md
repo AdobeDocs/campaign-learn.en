@@ -1,6 +1,6 @@
 ---
 title: Import profiles
-description: Learn how to import profiles into Adobe Campaign. (Between 60 and 160 characters)
+description: Learn how to import profiles into Adobe Campaign.
 feature: Profiles
 role: Developer
 level: Beginner
