@@ -11,3 +11,7 @@ breadcrumb-title: Set up SMS
 + [Set up an SMS account](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)
 + [Adapt the SMS connector](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)
 + [SMPP protocol deep dive and troubleshooting](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)
++ Return to Tutorials {#campaign-tutorials}
+  + [Adobe Campaign V8 Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=en)
+  + [Adobe Campaign V7 Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
+  + [Adobe Campaign Standard Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en)
