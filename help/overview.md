@@ -21,6 +21,9 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
+* **[SMPP protocol deep dive and troubleshooting](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)
+
+  *Learn how SMPP connections are established and how SMPP exchanges data through PDUs. Understand how to troubleshoot connections.*
 
 * **[Control Panel - Monitor workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target="_blank"}**
   
@@ -29,14 +32,6 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 * **[Control Panel - Monitor throughputs and latency](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target="_blank"}**
 
   *Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.*
-
-* **[Introduction to SMS](/help/tutorial-sms/introduction-to-sms.md)**
-  
-  *Learn how SMS works and how Adobe Campaign sends SMS*
-
-* **[Set up an SMS account for a standard SMPP provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-
-  *Learn how to adapt the SMS connector to your SMPP provider. Fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
 
 ## Staff Picks
 
