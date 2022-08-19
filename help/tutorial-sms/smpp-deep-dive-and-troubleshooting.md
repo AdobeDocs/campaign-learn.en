@@ -5,7 +5,8 @@ feature: SMS
 thumbnail: 346489.jpg
 kt: 9739
 ---
-#  SMPP protocol deep dive and troubleshooting
+
+# SMPP protocol deep dive and troubleshooting
 
 ![Applies to V7 and V8](../assets/V7-V8-stamp.png)
 
