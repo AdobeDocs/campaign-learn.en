@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign V8 Tutorials - Overview
-description: Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Standard.
+description: Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross-channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Standard.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
@@ -10,14 +10,15 @@ recommendations: noDisplay, noCatalog
 ---
 # Adobe Campaign V8 Tutorials - Overview
 
-Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign V8.
+Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross-channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign V8.
 
 >[!INFO]
 > Do you have questions? Would you like to share your experience or exchange thoughts with your peers? Or, do you have feedback on the learning content for the Adobe team? Join the conversation in the [Adobe Campaign learning community thread](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
 
 >[!NOTE]
-> Campaign v8 is currently only available as a Managed Cloud Service, and cannot be deployed on an on-premise or hybrid environments. Migration from an existing Campaign Classic v7 environment is not yet available.
->Please see the [Classic v7 to V8 product documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html) for more information about the differences of the two versions. Also see the [Campaign Classic V7 tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html) section for how to videos.
+> Campaign v8 is currently only available as a Managed Cloud Service, and cannot be deployed on an on-premise or hybrid environments. Automated migration from an existing Campaign Classic v7 environment is not yet available.
+>
+>Please see the [product documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html) for more information about the transition from Classic v7 to V8. 
 
 ## What's New
 
@@ -25,11 +26,11 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
   *Learn how SMPP connections are established and how SMPP exchanges data through PDUs. Understand how to troubleshoot connections.*
 
-* **[Control Panel - Monitor workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target="_blank"}**
+* **[Control Panel - Monitor workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target="_blank"}**
   
   *Learn how to monitor your workflows' temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.*
 
-* **[Control Panel - Monitor throughputs and latency](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target="_blank"}**
+* **[Control Panel - Monitor throughputs and latency](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target="_blank"}**
 
   *Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.*
 
