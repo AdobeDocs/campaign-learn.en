@@ -20,6 +20,8 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 >
 >Please see the [product documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html) for more information about the transition from Classic v7 to V8. 
 
+<div id="whats-new-section">
+ 
 ## What's New
 
 * **[SMPP protocol deep dive and troubleshooting](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
@@ -34,6 +36,17 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
   *Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.*
 
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
+ 
 ## Staff Picks
 
 <table>
@@ -122,5 +135,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
   </td>
 </tr>
 </table>
+
+</div>
 
 Please see the [product documentation](https://experienceleague.adobe.com/docs/campaign-v8.html) for more details on this feature.
