@@ -4,6 +4,7 @@ description: Learn how to set up an SMPP account with Adobe Campaign, how to ana
 feature: SMS
 thumbnail: 343607.jpg
 kt: 9742
+last-substantial-update: 2022-08-24 
 exl-id: c057d743-ca6a-44c7-a93a-d6652dba8e7b
 ---
 # Set up an SMS account for a standard SMPP provider
