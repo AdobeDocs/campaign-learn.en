@@ -69,6 +69,7 @@ breadcrumb-title: Tutorials
     + [Configure approvals for campaigns](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
     + [Configure approvals for deliveries](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
     + [Create an approval activity in a workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
+    + [Learn from your peers - Workflow best practices](/help/process-management/workflow-best-practices-for-marketers.md)
 + Data management {#data-management}
   + [Fundamentals of data management with workflows](/help/data-management/data-management-fundamentals.md)
   + [Change the data source](/help/data-management/change-data-source.md)
