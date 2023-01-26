@@ -4,7 +4,7 @@ description: Best practices to help Adobe Campaign practitioners unlock and acce
 doc-type: article
 role: User
 level: Beginner
-kt: 11772
+kt: 11779
 ---
 
 # 10 Best Practices to Adobe Campaign Success for Marketers

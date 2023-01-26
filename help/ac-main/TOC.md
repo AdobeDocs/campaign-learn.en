@@ -94,5 +94,6 @@ breadcrumb-title: Tutorials
   + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target="_blank"}
   + [Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
 + Strategy & thought leadership{#strategy}
-  + [Maximize email ROI and best practices for subscriber re-engagement](/help/strategy/campaign-maximize-email-best-practices.md)
+  + [10 Best Practices to Adobe Campaign Success for Marketers](/help/strategy-and-thought-leadrship/10-best-practices-to-adobe-campaign-success-for-marketers.md)
+  + [Maximize email ROI and best practices for subscriber re-engagement](/help/strategy-and-thought-leadrship/campaign-maximize-email-best-practices.md)
   + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
