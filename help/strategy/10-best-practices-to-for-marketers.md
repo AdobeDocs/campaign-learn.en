@@ -5,7 +5,6 @@ doc-type: article
 role: User
 level: Beginner
 kt: 11778
-last-update-author: 20230130
 last-substantial-update: 20230130
 ---
 
