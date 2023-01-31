@@ -23,14 +23,6 @@ Adobe Campaign is a flexible tool allowing you to execute and orchestrate commun
 
 ## 2. Document and understand your customer data  
 
-<!-- Sandra, this paragraph opens as if it's going to discuss the advantages of segmentation, but it left me hanging. So, I hit the Hubspot link and dug into it a bit, and it seemed to me like the juicy information is this quote: 
-
-"A study by Hubspot revealed that 30% of the marketers who participated in it used market segmentation techniques to improve email engagement. Segmented campaigns had 14.31% higher open rates and saw 101% more clicks than non-segmented campaigns.
-
-"Email marketers who segmented their audience before campaigning stated that the revenue generated increased to up to 760%. Targeted and segmented emails bring in 58% of all revenue." [Link](https://www.notifyvisitors.com/blog/segmentation-statistics/) 
-
-I added that second paragraph about 760% revenue and broke up the rest of the section, touched it up to help make the Hubspot example a little more impactful. If I altered this section too much, you can reject the change. It didn't have mistakes, but it felt like it didn't tie the segment example strongly enough to the point about data design. See if this is okay...-->
-
 According to a [Hubspot study](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen), segmented campaigns had 14.31% higher open rates and saw 101% more clicks than non-segmented campaigns. Email marketers who segmented their audience before campaigning stated that the revenue generated increased up to 760%. 
 
 In Adobe Campaign, you can orchestrate segmentation quickly and easily. However, to streamline and facilitate this process, campaign operators and marketing practitioners must have a documented understanding of their underlying data when designing and requesting a campaign build and execution. It's critical that you understand your current data and how to anticipate the data you might need when partnering with administrators and developers that support your [!DNL Campaign] instance. 
