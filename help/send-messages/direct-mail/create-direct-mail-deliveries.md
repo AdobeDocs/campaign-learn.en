@@ -15,4 +15,4 @@ exl-id: 9caa11fc-7a37-4036-8e14-c19f736c7efb
 
 Understand how [!UICONTROL direct mail] works in [!UICONTROL Adobe Campaign] and learn how to create, format, and execute a [!UICONTROL direct mail ]delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12&learn=on)

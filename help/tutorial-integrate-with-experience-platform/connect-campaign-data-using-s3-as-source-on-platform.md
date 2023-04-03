@@ -15,4 +15,4 @@ exl-id: 880c91ab-0e36-45b4-af42-fade61915e38
 
 Learn how to ingest data using a source connector in Experience Platform to update the profile data with exported campaign logs.
 
->[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12&learn=on)

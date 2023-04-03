@@ -15,4 +15,4 @@ exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 
 Learn how to refine your target by using intersection or union activities to combine query results in a workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12&learn=on)

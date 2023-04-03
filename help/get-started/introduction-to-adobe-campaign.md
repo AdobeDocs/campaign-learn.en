@@ -15,4 +15,4 @@ exl-id: b598e7ac-32ba-4fa4-b761-2cc2c9f557b2
 
 Understand how Adobe Campaign fits into the Adobe Digital Experience portfolio and learn about the primary features and capabilities.
 
->[!VIDEO](https://video.tv.adobe.com/v/335365?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335365?quality=12&learn=on)

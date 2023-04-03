@@ -14,4 +14,4 @@ exl-id: f61a1d00-694a-4727-8a24-959cb0258046
 
 Learn how the API staging mechanism with full FDA works. Understand why staging is used, the main principles of staging in Adobe campaign and how to activate the staging mechanism for a custom table.
 
->[!VIDEO](https://video.tv.adobe.com/v/339276?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/339276?quality=12&learn=on)

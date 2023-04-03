@@ -13,4 +13,4 @@ exl-id: 62c500fd-adb6-481c-a522-2183dd1779a8
 
 Learn how SMPP connections are established and how SMPP exchanges data through PDUs. Understand how to troubleshoot connections.
 
->[!VIDEO](https://video.tv.adobe.com/v/346489?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/346489?quality=12&learn=on)

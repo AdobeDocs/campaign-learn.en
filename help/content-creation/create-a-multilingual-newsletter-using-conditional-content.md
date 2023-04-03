@@ -17,4 +17,4 @@ By configuring conditional content fields, you can create advanced personalizati
 
 Learn how to add conditional content to a delivery on the example of a multilingual newsletter.
 
->[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12&learn=on)

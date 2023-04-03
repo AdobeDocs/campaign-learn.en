@@ -16,4 +16,4 @@ exl-id: 925727d6-0e4e-4433-8830-001d91e6cf9c
 Fatigue management controls frequency and quantity of messaging to avoid over-solicitation of recipients. 
 Learn how to implement fatigue management in Adobe Campaign by using filters.
 
->[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12&learn=on)

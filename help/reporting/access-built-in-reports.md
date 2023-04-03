@@ -15,4 +15,4 @@ exl-id: 11b67a60-b9f1-450e-a976-d1cca322a243
 
 Understand  built-in reporting and analysis in Adobe Campaign and learn how to generate a delivery report.
 
->[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12&learn=on)

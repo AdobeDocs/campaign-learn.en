@@ -17,4 +17,4 @@ Approvals enable operators to make decisions governing a workflow or to confirm 
 
 Learn how to set up approvals and a campaign and how to differentiate between delivery and workflow approvals.
 
->[!VIDEO](https://video.tv.adobe.com/v/334479?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334479?quality=12&learn=on)

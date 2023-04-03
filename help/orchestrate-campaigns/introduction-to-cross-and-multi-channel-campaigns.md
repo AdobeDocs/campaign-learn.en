@@ -13,4 +13,4 @@ exl-id: f7391930-f712-408a-8933-3225d10864e7
 
 Understand the difference between multi-channel and cross-channel campaigns and the use cases.
 
->[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12&learn=on)

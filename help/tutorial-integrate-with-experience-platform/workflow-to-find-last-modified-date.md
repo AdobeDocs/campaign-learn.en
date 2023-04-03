@@ -15,7 +15,7 @@ exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
 
 In this first part of the Create an Export Workflow tutorial, learn how to create a workflow that finds the last modified date for a list of recipients created from an Experience Platform segment.
 
->[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on)
 
 ## Assets
 

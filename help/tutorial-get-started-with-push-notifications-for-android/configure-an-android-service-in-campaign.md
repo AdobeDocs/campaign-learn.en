@@ -15,7 +15,7 @@ exl-id: fc4abd2a-a7a7-4564-b1a2-736a6b2cb5d4
 
 Learn how to configure an [!DNL Android™] service and create an [!DNL Android™] mobile application in Campaign. This step is required so that you can define the target mobile application for the push notification.
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on)
  
 **Previous Step**
 

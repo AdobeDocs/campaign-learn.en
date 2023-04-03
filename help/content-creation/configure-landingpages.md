@@ -17,4 +17,4 @@ Adobe Campaign enables you to design and host various landing pages on its serve
 
 This video demonstrates how to navigate Adobe Campaign’s web application editor by creating a preference center.
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on)

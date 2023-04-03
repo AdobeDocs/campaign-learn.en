@@ -15,7 +15,7 @@ exl-id: ac29b75c-a838-4183-8ec5-034281290725
 
 In this second part of the Create an Export Workflow tutorial, you learn how to format the data for export and how to save the data to an external account.
 
->[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12&learn=on)
 
 ## Assets
 

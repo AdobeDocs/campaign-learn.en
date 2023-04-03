@@ -18,4 +18,4 @@ Adobe Campaign uses workflows to carry out targeting campaigns, build campaigns 
 
 Learn how to define several delivery targets using a targeting workflows.
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on)

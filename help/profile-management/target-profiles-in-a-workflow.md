@@ -15,7 +15,7 @@ exl-id: 19296ac3-a81a-4201-9f6e-80be2395f0bc
 
 Understand the use of campaign workflows and learn how to create a workflow and use filtering conditions to target profiles in a workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on)
 
 ## Next Tutorials to watch
 

@@ -16,4 +16,4 @@ Learn how to configure approvals and reviewers at the delivery level.  
 
 Set up approvals on the delivery level, if the approvals steps and reviewers differ between deliveries.
 
->[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12&learn=on)

@@ -15,4 +15,4 @@ exl-id: 915d3fe8-d4ca-40d3-a0ff-683f79634a5d
 
 Learn how to create an event triggered campaign and understand its uses.
 
->[!VIDEO](https://video.tv.adobe.com/v/334478?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334478?quality=12&learn=on)

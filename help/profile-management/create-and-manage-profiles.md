@@ -17,4 +17,4 @@ Understand the concept of profiles. Learn how to access profile data, sort and f
 
 This video also explains the compliance of Adobe Campaign with General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA).
 
->[!VIDEO](https://video.tv.adobe.com/v/334111?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334111?quality=12&learn=on)

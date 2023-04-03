@@ -14,4 +14,4 @@ exl-id: 48ea5e79-29b8-43a4-9cb4-d6dcb13e9068
 
 Learn what targeting dimensions and working tables are, and how Adobe Campaign manages data across different data sources.
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on)
