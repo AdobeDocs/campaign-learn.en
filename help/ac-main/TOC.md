@@ -35,6 +35,7 @@ breadcrumb-title: Tutorials
     + [Create a multilingual newsletter using conditional content](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
     + [Define Interactive Email Content with AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
   + [Configure Landing Pages](/help/content-creation/configure-landingpages.md)
+  + [Create a survey](/help/content-creation/create-a-survey.md)
 + Send messages{#sending-messages}
   + Email {#email}
     + [Send and validate proofs for an email delivery](/help/send-messages/email/send-and-validate-proofs.md)
