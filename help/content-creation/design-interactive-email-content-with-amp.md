@@ -2,7 +2,7 @@
 title: Design interactive email content with AMP
 description: Learn how to configure the email content in AMP format.
 feature: Email, Email Design
-kt: 7946
+jira: KT-7946
 thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up

@@ -2,7 +2,7 @@
 title: Data replication
 description: Understand which databases Adobe Campaign V8 uses, why data is being replicated, which data is being replicated and how the replication process works.
 feature: Data Management
-kt: 7976
+jira: KT-7976
 thumbnail: 334460.jpg
 doc-type: feature video
 team: TM

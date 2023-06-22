@@ -2,7 +2,7 @@
 title: Manage fatigue using typology rules.
 description: Learn how to implement fatigue management by applying typology rules.
 feature: Fatigue Management
-kt: 7959
+jira: KT-7959
 thumbnail: 333787.jpg
 doc-type: feature video
 activity: use

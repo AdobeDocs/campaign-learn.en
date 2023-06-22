@@ -2,7 +2,7 @@
 title: Create recurring and continuous email deliveries
 description: Learn how to set up a recurring and a continuous delivery and understand the differences between the two approaches.
 feature: Workflows
-kt: 7982
+jira: KT-7982
 thumbnail: 342637.jpg
 doc-type: feature video
 activity: use

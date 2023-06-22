@@ -2,7 +2,7 @@
 title: Refine targets by combining query results
 description: Learn how to refine your target by using intersection or union activities to combine query results in a workflow.
 feature: Workflows, Targeting Activity, Query Editor
-kt: 7844
+jira: KT-7844
 thumbnail: 334304.jpg
 doc-type: feature video
 activity: use

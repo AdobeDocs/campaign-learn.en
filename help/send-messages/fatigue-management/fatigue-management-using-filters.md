@@ -2,7 +2,7 @@
 title: Manage fatigue using predefined filters
 description: Learn  how to implement fatigue management in Adobe Campaign by using filters.
 feature: Fatigue Management
-kt: 7958
+jira: KT-7958
 thumbnail: 333778.jpg
 doc-type: feature video
 activity: use

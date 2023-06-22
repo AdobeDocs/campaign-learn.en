@@ -3,7 +3,7 @@ title: Adapt SMS connector to your SMPP provider
 description: Learn how to fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.
 feature: SMS
 thumbnail: 343622.jpg
-kt: 9741
+jira: KT-9741
 last-substantial-update: 2022-08-24 
 exl-id: e84d43a8-6553-4657-9383-5ea91867e811
 ---

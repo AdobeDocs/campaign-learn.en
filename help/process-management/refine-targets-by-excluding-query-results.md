@@ -2,7 +2,7 @@
 title: Refine targets by excluding query results
 description: Learn how to refine your target by applying a  standard exclusion to a workflow. Learn how to create predefined filters and trouble shoot your workflow.
 feature: Workflows, Targeting Activity, Query Editor
-kt: 7845
+jira: KT-7845
 thumbnail: 335609.jpg
 doc-type: feature video
 activity: use

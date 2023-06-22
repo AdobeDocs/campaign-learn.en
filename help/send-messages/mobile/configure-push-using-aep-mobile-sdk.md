@@ -2,7 +2,7 @@
 title: Configure the Push Channel using the Experience Platform Mobile SDK
 description: Learn how to configure the Push channel using the Experience Cloud Mobile SDK.
 feature: Push
-kt: 7960
+jira: KT-7960
 doc-type: feature video
 activity: setup
 team: PM

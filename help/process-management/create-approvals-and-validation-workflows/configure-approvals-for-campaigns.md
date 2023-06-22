@@ -2,7 +2,7 @@
 title: Configure approvals for campaigns
 description: Learn how to define several delivery targets using a targeting workflows.
 feature: Workflows, Approvals
-kt: 7991
+jira: KT-7991
 thumbnail: 338826.jpg
 doc-type: feature video
 activity: use

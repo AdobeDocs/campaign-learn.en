@@ -2,7 +2,7 @@
 title: Personalize emails using dynamic content blocks
 description: Learn how created dynamic content blocks and how to use them to personalize the content of your email delivery.
 feature: Dynamic Content
-kt: 7941
+jira: KT-7941
 thumbnail: 342088.jpg
 doc-type: feature video
 activity: use

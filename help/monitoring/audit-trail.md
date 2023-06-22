@@ -2,7 +2,7 @@
 title: Audit Trail
 description: Learn how to access the Audit Trail logs and which settings can be configured.
 feature: Audit Trail
-kt: 7969
+jira: KT-7969
 doc-type: feature video
 activity: understand
 thumbnail: 342081.jpg

@@ -2,7 +2,7 @@
 title: Workflow Heatmap
 description: Learn how to monitor the load on the instance and to plan workflow schedules accordingly.
 feature: Heatmap
-kt: 7970
+jira: KT-7970
 Thumbnail: 342084.jpg
 doc-type: feature video
 activity: understand

@@ -2,7 +2,7 @@
 title: Send a delivery to subscribed recipients
 description: Learn how to join data two segments, create an article alert email, and personalize it based on data received from an external API.
 feature: Workflows, Targeting Activity, Query Editor
-kt: 8167
+jira: KT-8167
 thumbnail: 336904.jpg
 doc-type: feature video
 activity: use

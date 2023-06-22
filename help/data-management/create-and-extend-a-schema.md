@@ -2,7 +2,7 @@
 title: Create and extend a schema
 description: Learn how to create a schema and how to extend an existing schema.
 feature: Data Management
-kt: 7975
+jira: KT-7975
 thumbnail: 337939.jpg
 doc-type: feature video
 team: TM

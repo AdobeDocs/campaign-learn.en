@@ -2,7 +2,7 @@
 title: Explore the Adobe Campaign user interface
 description: Learn about the Adobe Campaign V8 user interface and how to navigate the main features.
 feature: Overview
-kt: 7828
+jira: KT-7828
 thumbnail: 334496.jpg
 doc-type: feature video
 activity: understand

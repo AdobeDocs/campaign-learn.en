@@ -2,7 +2,7 @@
 title: Personalize emails using personalization fields
 description: Learn how to add a personalization field to the subject line and the content of an email delivery.
 feature: Dynamic Content
-kt: 7942
+jira: KT-7942
 thumbnail: 24925.jpg
 doc-type: feature video
 activity: use

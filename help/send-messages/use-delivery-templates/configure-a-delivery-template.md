@@ -2,7 +2,7 @@
 title: Configure a delivery template
 description: Learn how to configure a template for an ad hoc delivery.
 feature: Delivery Templates
-kt: 7962
+jira: KT-7962
 thumbnail: 342082.jpg
 doc-type: feature video
 activity: use

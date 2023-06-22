@@ -2,7 +2,7 @@
 title: Create a campaign logs schema and dataset in Adobe Experience Platform
 description: Learn how to create a schema and dataset in Adobe Experience Platform that can be used to ingest campaign logs data into Platform.
 feature: Data Import/Export, Data Management
-kt: 8161
+jira: KT-8161
 thumbnail: 336903.jpg
 doc-type: feature video
 activity: use

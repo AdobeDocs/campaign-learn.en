@@ -2,7 +2,7 @@
 title: Use the update list activity to create a list with a workflow
 description: Understand the concept of lists in Adobe Campaign and learn how to create a list using the update list activity in a workflow.
 feature: Workflows, Targeting Activity, Query Editor
-kt: 7840
+jira: KT-7840
 thumbnail: 334909.jpg
 doc-type: feature video
 activity: use

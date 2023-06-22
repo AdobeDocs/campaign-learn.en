@@ -2,7 +2,7 @@
 title: Configure an Android™ service and create an Android™ mobile application in Campaign
 description: Learn how to configure an Android™ service and create an Android™ mobile application in Campaign.
 feature: Push
-kt: 7965
+jira: KT-7965
 thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup

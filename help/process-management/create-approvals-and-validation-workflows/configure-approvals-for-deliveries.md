@@ -2,7 +2,7 @@
 title: Configure approvals for deliveries
 description: Learn how to configure approvals and reviewers at the delivery level.
 feature: Workflows, Approvals
-kt: 9339
+jira: KT-9339
 thumbnail: 338828.jpg
 doc-type: feature video
 activity: use

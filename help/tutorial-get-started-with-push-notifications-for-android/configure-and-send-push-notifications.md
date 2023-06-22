@@ -2,7 +2,7 @@
 title: Configure and send push notifications
 description: Learn how to configure and send a push notification to Android™ app users.
 feature: Push
-kt: 7966
+jira: KT-7966
 thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup

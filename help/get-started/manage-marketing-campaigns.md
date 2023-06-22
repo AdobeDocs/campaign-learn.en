@@ -2,7 +2,7 @@
 title: Manage marketing campaigns
 description: Understand the key concepts of Adobe Campaign that help effectively plan, execute, and measure cross-channel marketing campaigns.
 feature: Campaigns
-kt: 7829
+jira: KT-7829
 thumbnail: 335608.jpg
 doc-type: presentation
 activity: understand

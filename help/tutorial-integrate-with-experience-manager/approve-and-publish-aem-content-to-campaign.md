@@ -2,7 +2,7 @@
 title: Approve and publish an Experience Manager content to Campaign
 description: Learn how to create a newsletter in Experience Manager and how to approve and publish it to Campaign.
 feature: Experience Manager Integration
-kt: 9597
+jira: KT-9597
 thumbnail: 340678.jpg
 doc-type: feature video
 activity: setup

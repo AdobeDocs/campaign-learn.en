@@ -2,7 +2,7 @@
 title: Create cross-channel campaigns
 description: Learn how to create a cross-channel campaign using email and direct mail deliveries based on the customer's interaction with the first delivery.
 feature: Workflows
-kt: 7798
+jira: KT-7798
 thumbnail: 335607.jpg
 doc-type: feature video
 activity: use

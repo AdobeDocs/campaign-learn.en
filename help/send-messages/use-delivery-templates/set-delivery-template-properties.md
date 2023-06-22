@@ -2,7 +2,7 @@
 title: Set delivery template properties
 description: Learn how to configure the delivery template properties.
 feature: Delivery Templates
-kt: 7964
+jira: KT-7964
 thumbnail: 338969.jpg
 doc-type: feature video
 activity: use

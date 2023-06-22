@@ -2,7 +2,7 @@
 title: Use SOAP APIs in workflows - Introduction
 description: Learn how to use Adobe Campaign Soap API's and create an advanced delivery workflow based on the data received via the API.
 feature: API
-kt: 7772
+jira: KT-7772
 thumbnail: 336639.jpg
 role: Admin, Developer
 level: Experienced

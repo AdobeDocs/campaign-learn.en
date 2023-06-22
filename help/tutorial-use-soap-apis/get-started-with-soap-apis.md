@@ -2,7 +2,7 @@
 title: Get started with SOAP APIs
 description: Learn how to generate a session token using postman for use in API requests
 feature: API
-kt: 8163
+jira: KT-8163
 thumbnail: 336536.jpg
 role: Admin, Developer
 level: Experienced

@@ -2,7 +2,7 @@
 title: Integrate with Experience Platform - Overview
 description: Learn how to import and export Campaign and Experience Cloud data, allowing for the communication between the two solutions.
 feature: API
-kt: 9094
+jira: KT-9094
 thumbnail: 336643.jpg
 role: Admin, Developer
 level: Experienced

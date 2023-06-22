@@ -2,7 +2,7 @@
 title: Email delivery activity vs. delivery activity
 description: This video, explains how to configure and use a delivery template.
 feature: Delivery Templates
-kt: 3232
+jira: KT-3232
 doc-type: feature video
 activity: use
 team: TM

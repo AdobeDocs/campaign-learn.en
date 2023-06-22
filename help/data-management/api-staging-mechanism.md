@@ -2,7 +2,7 @@
 title: API staging mechanism with FFDA
 description: Learn how the API staging mechanism with full FDA works. Understand why staging is used, the main principles of staging in Adobe campaign and how to activate the staging mechanism for a custom table.
 feature: Data Management
-kt: 7974
+jira: KT-7974
 thumbnail: 339276.jpg
 doc-type: feature video
 team: TM

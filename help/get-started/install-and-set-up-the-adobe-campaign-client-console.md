@@ -2,7 +2,7 @@
 title: Install and set up the Adobe Campaign Client Console
 description: Learn how to download and install the Adobe Campaign Client Console, create and manage your connections to multiple environments, and to verify access to the Adobe Campaign Client console.
 feature: Client Console
-kt: 7827
+jira: KT-7827
 thumbnail: 335375.jpg
 doc-type: feature video
 activity: setup

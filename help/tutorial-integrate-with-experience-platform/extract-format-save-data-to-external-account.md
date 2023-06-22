@@ -2,7 +2,7 @@
 title: Create an export workflow (Part 2) - Extract, format, and save data to an external account
 description: In this second part of the Create an Export Workflow tutorial, you learn how to format the data for export and how to save the data to an external account.
 feature: Data Import/Export, Workflows
-kt: 8160
+jira: KT-8160
 thumbnail: 336391.jpg
 doc-type: feature video
 activity: setup

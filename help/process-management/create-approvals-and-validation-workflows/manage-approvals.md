@@ -2,7 +2,7 @@
 title: Manage approvals in a campaign
 description: Learn how to set up approvals and a campaign and how to differentiate between delivery and workflow approvals.
 feature: Workflows, Approvals
-kt: 7787
+jira: KT-7787
 thumbnail: 334479.jpg
 doc-type: feature video
 activity: use

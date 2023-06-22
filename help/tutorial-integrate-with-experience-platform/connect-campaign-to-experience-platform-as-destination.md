@@ -2,7 +2,7 @@
 title: Connect Campaign to Experience Platform as a destination
 description: Learn how to activate an Adobe Experience Platform segment to a destination using the Amazon S3 connection type.
 feature: Data Management, Data Import/Export
-kt: 8175
+jira: KT-8175
 thumbnail: 336902.jpg
 doc-type: feature video
 activity: setup

@@ -2,7 +2,7 @@
 title: Create an export workflow (Part 1) - Find the last modified date for a list of recipients
 description: In this first part of the Create an Export Workflow tutorial, learn how to create a workflow that finds the last modified date for a list of recipients created from an Experience Platform segment.
 feature: Data Import/Export, Workflows
-kt: 8162
+jira: KT-8162
 thumbnail: 336387.jpg
 doc-type: feature video
 activity: setup

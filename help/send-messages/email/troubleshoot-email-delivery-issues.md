@@ -2,7 +2,7 @@
 title: Troubleshooting email delivery issues
 description: Learn how to troubleshoot email delivery issues in Campaign.
 feature: Email, Deliverability
-kt: 7785
+jira: KT-7785
 thumbnail: 334907.jpg
 doc-type: feature video
 activity: understand

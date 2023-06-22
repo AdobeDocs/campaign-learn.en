@@ -3,7 +3,7 @@ title: Introduction to SMS
 description: Learn what SMS is and how Campaign handles SMS
 feature: SMS
 thumbnail: 340957.jpg
-kt: 9743
+jira: KT-9743
 last-substantial-update: 2022-08-24 
 exl-id: 267e8394-7499-45ef-8394-b216c513649a
 ---

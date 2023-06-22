@@ -2,7 +2,7 @@
 title: Extend the app subscription schema to personalize push notifications
 description: Learn how to extend the app subscription schema to be able to store personalization values Campaign receives from a mobile app.
 feature: Push, Schema Extension
-kt: 7967
+jira: KT-7967
 thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup

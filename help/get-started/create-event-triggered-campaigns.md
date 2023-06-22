@@ -2,7 +2,7 @@
 title: Create event triggered campaigns
 description: Learn how to create an event triggered campaign and understand its uses.
 feature: Workflows, Targeting Activity
-kt: 7783
+jira: KT-7783
 thumbnail: 334478.jpg
 doc-type: feature video
 activity: use

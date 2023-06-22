@@ -2,7 +2,7 @@
 title: Introduction to multi-channel and cross-channel campaigns
 description: Understand the difference between multi-channel and cross-channel campaigns and the use cases.
 feature: Workflows
-kt: 7796
+jira: KT-7796
 thumbnail: 335610.jpg
 doc-type: feature video
 activity: use

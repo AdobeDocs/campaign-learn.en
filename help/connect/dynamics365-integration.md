@@ -3,7 +3,7 @@ title: How to Integrate Dynamics 365 with Adobe Campaign
 description: This video demonstrates how to integrate Dynamics 365 with Adobe Campaign.
 targetaudience: target-audience new;target-audience ongoing
 feature: Microsoft CRM Integration
-kt: 1869
+jira: KT-1869
 doc-type: feature video
 activity: setup
 team: DOC

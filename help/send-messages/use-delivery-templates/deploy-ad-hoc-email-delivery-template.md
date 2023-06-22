@@ -2,7 +2,7 @@
 title: Deploy an ad hoc email delivery template
 description: Learn how to deploy an ad hoc email delivery template and understand the difference between an email delivery and a delivery workflow.
 feature: Delivery Templates
-kt: 7963
+jira: KT-7963
 thumbnail: 338965.jpg
 doc-type: feature video
 activity: use

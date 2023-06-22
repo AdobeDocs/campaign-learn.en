@@ -2,7 +2,7 @@
 title: Design emails for deliverability
 description: Learn how to apply deliverability best practices to your email deliveries.
 feature: Email, Deliverability
-kt: 7849
+jira: KT-7849
 thumbnail: 333471.jpg
 doc-type: feature video
 team: WWFRE

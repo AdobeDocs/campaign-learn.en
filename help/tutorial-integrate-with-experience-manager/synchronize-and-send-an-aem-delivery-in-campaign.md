@@ -2,7 +2,7 @@
 title: Synchronize & send an Experience Manager email delivery in Campaign
 description: Learn how to test and send a newsletter, that was created in Experience Manager, in Campaign.
 feature: Experience Manager Integration
-kt: 9606
+jira: KT-9606
 thumbnail: 340151.jpg
 doc-type: feature video
 activity: setup

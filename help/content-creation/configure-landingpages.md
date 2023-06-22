@@ -2,7 +2,7 @@
 title: Configure landing pages
 description: Learn how to navigate the web application editor by creating a preference center.
 feature: Landing Pages
-kt: 7945
+jira: KT-7945
 thumbnail: 333629.jpg
 doc-type: feature video
 activity: setup
