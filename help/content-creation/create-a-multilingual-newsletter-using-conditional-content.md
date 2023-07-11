@@ -1,7 +1,7 @@
 ---
 title: Create a multilingual newsletter using conditional content
 description: Learn how to add conditional content to a delivery on the example of a multilingual newsletter.
-feature: Dynamic Content
+feature: Personalization, Email
 jira: KT-7792
 thumbnail: 335682.jpg
 doc-type: feature video

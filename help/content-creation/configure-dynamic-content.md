@@ -1,7 +1,7 @@
 ---
 title: Configure dynamic content
 description: Understand the different types of dynamic content and learn how create and apply personalization blocks and conditional statements to a delivery.
-feature: Dynamic Content, Personalization, Email
+feature: Personalization, Email
 jira: KT-7789
 thumbnail: 335734.jpg
 doc-type: feature video
