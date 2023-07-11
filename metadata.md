@@ -1,11 +1,11 @@
 ---
 cloud: Experience Cloud
+product: Adobe Campaign
 solution: Campaign, Campaign v8
 feature-set: Campaign
 version: v8
-product: campaign
 type: Tutorial
-mini-toc-levels: 2
+mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-learn.en
 index: yes
 ---
