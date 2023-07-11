@@ -6,6 +6,7 @@ jira: KT-7842
 thumbnail: 334300.jpg
 doc-type: feature video
 activity: use
+feature: Workflows
 team: WWFRE
 role: User
 level: Beginner

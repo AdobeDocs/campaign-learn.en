@@ -1,6 +1,9 @@
 ---
 user-guide-title: Set up SMS for Adobe Campaign
 user-guide-description: Learn how to configure an SMS account for SMTP providers, how Adobe Campaign handles SMS, and how to analyze and troubleshoot the configuration. 
+Role: Admin, Developer
+Level: Advanced
+Feature: SMS
 breadcrumb-title: Set up SMS
 ---
 
