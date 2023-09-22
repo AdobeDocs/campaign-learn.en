@@ -19,4 +19,4 @@ A personalization block is dynamic, personalized, and contains specific renderin
 
 Learn how created dynamic content blocks and how to use them to personalize the content of your email delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on){transcript=true}

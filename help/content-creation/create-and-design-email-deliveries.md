@@ -15,4 +15,4 @@ exl-id: 678abd34-75b3-4c73-9bf3-54852ae12515
 
 Understand the process of creating an email delivery and learn how to design and personalize email content.
 
->[!VIDEO](https://video.tv.adobe.com/v/333476?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333476?quality=12&learn=on){transcript=true}

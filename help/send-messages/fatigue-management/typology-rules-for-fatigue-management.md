@@ -17,4 +17,4 @@ Fatigue management controls frequency and quantity of messaging to avoid over-so
 
 Learn how to implement fatigue management in Adobe Campaign by using typology rules.
 
->[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12&learn=on){transcript=true}

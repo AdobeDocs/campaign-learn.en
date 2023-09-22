@@ -12,4 +12,4 @@ exl-id: f5cf07fb-da4c-411d-bf78-6e9e83f43d30
 
 Learn how to personalize a delivery with dynamic content served from Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}

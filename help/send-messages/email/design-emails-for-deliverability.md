@@ -14,7 +14,7 @@ exl-id: dda3ca16-204c-4af8-a9d3-713d14865d61
 
 Learn how to apply deliverability best practices to your email deliveries.
 
->[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12&learn=on){transcript=true}
 
 ## Additional resources
 

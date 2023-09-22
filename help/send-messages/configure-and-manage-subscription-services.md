@@ -15,4 +15,4 @@ exl-id: 58f30484-72ae-4821-ae22-6391fb615156
 
 Learn how to setup and manage subscriptions and target subscribers.
 
->[!VIDEO](https://video.tv.adobe.com/v/334305?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334305?quality=12&learn=on){transcript=true}

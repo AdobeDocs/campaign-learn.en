@@ -15,4 +15,4 @@ exl-id: 570465ac-cfe9-4ef5-8bc9-6776762830b1
 
 This video explains how to deploy an ad hoc email delivery template and it explains the difference between an email delivery and a delivery workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/338965?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/338965?quality=12&learn=on){transcript=true}

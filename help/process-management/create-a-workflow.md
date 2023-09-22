@@ -18,4 +18,4 @@ Workflows occur within various contexts and stages of the campaign management pr
 
 This video explains how to create a workflow in Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}

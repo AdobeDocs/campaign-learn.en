@@ -13,7 +13,7 @@ exl-id: 349532f1-92d6-4774-8e1c-c3a0f280ad3e
 
 Learn how share data between Campaign and Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12&learn=on){transcript=true}
 
 ## Additional resources
 

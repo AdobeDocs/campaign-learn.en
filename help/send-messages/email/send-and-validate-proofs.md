@@ -15,4 +15,4 @@ exl-id: 237db54b-cd20-4136-b262-99dd94eefbb1
 
 Learn how to send and validate a proof for an email delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/333404)
+>[!VIDEO](https://video.tv.adobe.com/v/333404?quality=12&learn=on){transcript=true}

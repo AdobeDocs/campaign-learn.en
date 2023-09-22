@@ -15,4 +15,4 @@ exl-id: 400cb55f-8f40-497d-b8da-3ba7fc750208
 
 Learn how to configure an external account in Adobe Campaign to import recipient data from Adobe Experience Platform to Campaign. Understand how to create a workflow to upload and target the recipients received from the Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on){transcript=true}

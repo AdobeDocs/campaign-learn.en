@@ -15,4 +15,4 @@ exl-id: 7a19b3a5-e736-41c4-a443-7110e0dd45cd
 
 Learn how to create an SMS delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/335706)
+>[!VIDEO](https://video.tv.adobe.com/v/335706?quality=12&learn=on){transcript=true}

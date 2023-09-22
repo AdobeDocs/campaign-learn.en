@@ -14,7 +14,7 @@ exl-id: 13813651-0a6f-40b6-9ea3-61f752715ea0
 
 Learn how to create a survey in Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on){transcript=true}
 
 >[!NOTE] 
 >The video is recorded in the Campaign Classic V7 UI, but is also valid for Campaign V8.

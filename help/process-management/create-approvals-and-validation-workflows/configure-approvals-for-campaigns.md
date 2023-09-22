@@ -16,4 +16,4 @@ Learn how to configure approvals and reviewers at the campaign level.  
 
 Approvals should be set up at the campaign level, if you have the same set of reviewers for all deliveries in your campaign workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on){transcript=true}

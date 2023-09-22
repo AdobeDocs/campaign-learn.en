@@ -15,4 +15,4 @@ exl-id: bdfcf733-dd4b-42d1-a063-2a72f0111cca
 
 Learn how to activate an Adobe Experience Platform segment to a destination using the Amazon S3 connection type.
 
->[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on){transcript=true}

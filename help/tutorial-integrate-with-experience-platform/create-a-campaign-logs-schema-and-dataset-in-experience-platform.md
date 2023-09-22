@@ -15,4 +15,4 @@ exl-id: f10c7a18-8ba3-4527-a92b-bc95403042c8
 
 Learn how to create a schema and dataset in Adobe Experience Platform that can be used to ingest campaign logs data into Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/336903?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336903?quality=12&learn=on){transcript=true}

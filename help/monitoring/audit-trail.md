@@ -21,6 +21,6 @@ exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
 
 Learn how to access the Audit Trail logs and which settings can be configured.
 
->[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on){transcript=true}
 
 More information can be found in the [Audit Trail Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).

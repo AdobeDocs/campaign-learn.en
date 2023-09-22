@@ -15,7 +15,7 @@ exl-id: c7dbb3c0-41eb-47dd-93bd-3c4caccc07ad
 
 Learn how to extend the [!UICONTROL app subscription] schema to be able to store personalization values [!DNL Campaign] receives from a mobile app.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
 
 **Next step**
 

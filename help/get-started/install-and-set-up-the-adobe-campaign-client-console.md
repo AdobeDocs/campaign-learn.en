@@ -15,4 +15,4 @@ exl-id: 957aba61-f6b2-4bc9-a804-40a4f40b6365
 
 The following video explains how to download and install the Adobe Campaign Client Console, create and manage your connections to multiple environments, and verify access to the Adobe Campaign Client console.
 
->[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}

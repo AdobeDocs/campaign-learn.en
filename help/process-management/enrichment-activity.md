@@ -17,4 +17,4 @@ The enrichment activity is a workflow object that adds data to the working table
 
 Learn how to configure an enrichment activity based on delivery log information.
 
->[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12&learn=on){transcript=true}

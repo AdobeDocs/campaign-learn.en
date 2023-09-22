@@ -17,4 +17,4 @@ Personalization fields are used for first-level personalization of the content o
 
 Learn how to add a personalization field to the subject line and the content of an email delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}

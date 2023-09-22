@@ -16,4 +16,4 @@ exl-id: 4338d42f-14e0-48b1-93ff-2155e6ed9f10
 Learn how to create a marketing plan, program, and campaign, set properties for a campaign, and understand how to use the schedule.
 The video guides you through an exercise that you can follow along in your own instance.
 
->[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12&learn=on){transcript=true}

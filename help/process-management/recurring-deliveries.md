@@ -33,10 +33,10 @@ The recurring and continuous deliveries differ in the way contact data is manage
 
 The video explains how to configure a recurring delivery and a scheduler activity.
 
->[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on){transcript=true}
 
 ## How to set up a continuous delivery {#how-to-set-up-a-continuous-delivery}
 
 This video shows how to configure a continuous delivery with an incremental query.
 
->[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on){transcript=true}
