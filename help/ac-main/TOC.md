@@ -4,6 +4,7 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign Tutorials
 user-guide-description: Adobe Campaign allows marketers to design cross customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross channel execution.
 breadcrumb-title: Tutorials
+auto-video-transcripts: true
 ---
 
 # Adobe Campaign V8 Tutorials {#tutorials}
