@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-25
 jira: KT-11925
 thumbnail: 3415810.jpeg
-exl-id: 13813651-0a6f-40b6-9ea3-61f752715ea0
+exl-id: 5eaf028b-31df-42df-ad2a-1d0e93cb38c6
 ---
 # Create a survey
 
