@@ -1,7 +1,7 @@
 ---
 cloud: Experience Cloud
 product: Adobe Campaign
-solution: Campaign, Campaign v8
+solution: Campaign, Campaign v8 Client Console
 feature-set: Campaign
 version: v8
 type: Tutorial
