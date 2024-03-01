@@ -15,15 +15,14 @@ See
 
 >[!INFO]
 > Do you have questions? Would you like to share your experience or exchange thoughts with your peers? Or, do you have feedback on the learning content for the Adobe team? Join the conversation in the [Adobe Campaign learning community thread](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
+> 
+> These tutorials are not what you are looking for? 
+> See the [Adobe Campaign Web User Interface tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html) for guidance on how to use the Campaign Web User Interface.
 
 >[!NOTE]
 > Campaign v8 is currently only available as a Managed Cloud Service, and cannot be deployed on an on-premise or hybrid environments. Automated migration from an existing Campaign Classic v7 environment is not yet available.
 >
 >See the [product documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html) for more information about the transition from Classic v7 to V8. 
-
-> These tutorials are not what you are looking for? 
-> See the [Adobe Campaign Web User Interface tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html) for guidance on how to use the Campaign Web User Interface.
-
 
 
 <div id="recs-overview-body-1"></div>
