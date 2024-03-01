@@ -99,3 +99,4 @@ auto-video-transcripts: true
   + [Ten best practices to Adobe Campaign success for marketers](/help/strategy/10-best-practices-for-marketers.md)
   + [Maximize email ROI and best practices for subscriber re-engagement](/help/strategy/campaign-maximize-email-best-practices.md)
   + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
++ [Adobe Campaign Web User Interface tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)

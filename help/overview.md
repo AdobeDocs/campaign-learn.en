@@ -1,15 +1,17 @@
 ---
-title: Adobe Campaign V8 Tutorials - Overview
-description: Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross-channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Standard.
+title: Adobe Campaign V8 Client Console Tutorials
+description: Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross-channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign V8 Client Console.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 ---
-# Adobe Campaign V8 tutorials
+# ADobe Campaign v8 Client Console Tutorials
 
-Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross-channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign V8.
+Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross-channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign V8 Client Console.
+
+See 
 
 >[!INFO]
 > Do you have questions? Would you like to share your experience or exchange thoughts with your peers? Or, do you have feedback on the learning content for the Adobe team? Join the conversation in the [Adobe Campaign learning community thread](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
@@ -17,7 +19,12 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 >[!NOTE]
 > Campaign v8 is currently only available as a Managed Cloud Service, and cannot be deployed on an on-premise or hybrid environments. Automated migration from an existing Campaign Classic v7 environment is not yet available.
 >
->Please see the [product documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html) for more information about the transition from Classic v7 to V8. 
+>See the [product documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html) for more information about the transition from Classic v7 to V8. 
+
+> These tutorials are not what you are looking for? 
+> See the [Adobe Campaign Web User Interface tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html) for guidance on how to use the Campaign Web User Interface.
+
+
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
