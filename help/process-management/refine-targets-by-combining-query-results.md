@@ -9,7 +9,6 @@ activity: use
 team: WWFRE
 role: User
 level: Beginner
-exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 ---
 # Refine targets by combining query results
 

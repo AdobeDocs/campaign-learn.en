@@ -9,7 +9,6 @@ activity: understand
 team: PM
 role: Admin
 level: Beginner
-exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
 ---
 # Workflow Heatmap
 
