@@ -7,9 +7,9 @@ breadcrumb-title: Client Console - Tutorials
 auto-video-transcripts: true
 ---
 
-# Adobe Campaign V8 Tutorials {#tutorials}
+# Adobe Campaign v8 Client Console Tutorials {#tutorials}
 
-+ [Adobe Campaign](/help/overview.md)
++ [Campaign v8 Client Console Tutorials](/help/overview.md)
 + [Key capabilities of Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
 + Get Started {#getting-started}
   + [Introduction to Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
