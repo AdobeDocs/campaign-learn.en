@@ -5,6 +5,7 @@ sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
+exl-id: ec352448-e40b-4d22-b566-d25783e74b63
 ---
 # Adobe Campaign v8 Client Console Tutorials
 
