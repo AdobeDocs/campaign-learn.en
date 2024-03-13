@@ -1,5 +1,5 @@
 ---
-title: Explore the Adobe Campaign user interface
+title: Explore the Adobe Campaign v8 Client Console user interface
 description: Learn about the Adobe Campaign V8 user interface and how to navigate the main features.
 feature: Overview
 jira: KT-7828
@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: 69d47d92-2590-4b3b-801b-493fbe4df2ce
 ---
-# Explore the Adobe Campaign user interface
+# Explore the Adobe Campaign v8 Client Console user interface
 
 Learn about the Adobe Campaign V8 user interface and how to navigate the main features.
 
