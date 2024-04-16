@@ -2,6 +2,7 @@
 title: SMPP protocol deep dive and troubleshooting
 description: Learn how SMPP connections are established and how SMPP exchanges data through PDUs. Understand how to troubleshoot connections.
 feature: SMS
+role: Admin, Developer
 thumbnail: 346489.jpg
 jira: KT-9739
 last-substantial-update: 2022-08-24 
