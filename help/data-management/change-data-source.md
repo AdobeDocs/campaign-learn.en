@@ -2,7 +2,7 @@
 title: Change the data source
 description: Learn how to change the data source of a workflow working table using the Change Data Source Activity to flexibly manage data across different data sources such as FDA, FFDA, and local database.
 feature: Data Management
-jira: KT-78379
+jira: KT-8379
 thumbnail: 340064.jpg
 doc-type: feature video
 team: TM
