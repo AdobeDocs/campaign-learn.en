@@ -10,7 +10,7 @@ index: yes
 + [Get started Adobe Campaign v8 for administrators and developers]
 + [Set up the environment]{#set-up-environments}
   + [Campaign implementation guidelines](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}
-  + [Install and set up the Adobe Campaign Client Console](/help/tutorial-acs-acc-admin/install-the-client-console.md
+  + [Install and set up the Adobe Campaign Client Console](/help/tutorial-acs-acc-admin/install-the-client-console.md)
 + [Manage user permissions](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/admin/permissions/manage-permissions){target="_blank}
 + [Configure Channels]{#Configure-channels}
   + [Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/en/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview){target="_blank}
