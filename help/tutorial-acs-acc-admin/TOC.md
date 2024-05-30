@@ -5,9 +5,8 @@ breadcrumb-title: Getting started Adobe Campaign for administrators
 index: no
 ---
 
-# Get started Adobe Campaign v8 for administrators and developers{#get-started-with-campaign-v8-for-admins-and-developers}
+# Get started Adobe Campaign v8 for administrators and developers {#get-started-with-campaign-v8-for-admins-and-developers}
 
-+ [Get started Adobe Campaign v8 for administrators and developers]
 + [Set up the environment]{#set-up-environments}
   + [Campaign implementation guidelines](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}
   + [Install and set up the Adobe Campaign Client Console](/help/tutorial-acs-acc-admin/install-the-client-console.md)
