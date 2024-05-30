@@ -7,6 +7,7 @@ activity: setup
 role: Admin, Developer
 level: Beginner
 recommendations: noDisplay
+index: no
 ---
 
 # Install and set up the Adobe Campaign Client Console
