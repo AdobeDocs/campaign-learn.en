@@ -5,7 +5,7 @@ breadcrumb-title: Getting started Adobe Campaign for administrators
 index: yes
 ---
 
-# Get started Adobe Campaign v8 for administrators and developers{#get-started-with-campaign-v8-for admins-and-developers}
+# Get started Adobe Campaign v8 for administrators and developers{#get-started-with-campaign-v8-for-admins-and-developers}
 
 + [Get started Adobe Campaign v8 for administrators and developers]
 + [Set up the environment]{#set-up-environments}
