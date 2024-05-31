@@ -18,6 +18,7 @@ auto-video-transcripts: true
   + [Manage marketing campaigns](/help/get-started/manage-marketing-campaigns.md)
   + [Create a marketing plan, programs, and campaigns](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
   + [Create event triggered campaigns](/help/get-started/create-event-triggered-campaigns.md)
+  + [Get started for administrators](/help/tutorial-acs-acc-admin/overview.md)
 + Profile management {#profile-management}
   + [Create and manage profiles](/help/profile-management/create-and-manage-profiles.md)
   + [Import profiles](/help/profile-management/import-profiles.md)
