@@ -7,7 +7,7 @@ index: no
 
 # Get started Adobe Campaign v8 for administrators and developers {#get-started-with-campaign-v8-for-admins-and-developers}
 
-+ [Campaign V8 architecture](/https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/architecture/architecture)
++ [Campaign V8 architecture](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/architecture/architecture)
 + [Set up the environment]{#set-up-environments}
   + [Campaign implementation guidelines](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement)
   + [Install and set up the Adobe Campaign Client Console](/help/tutorial-acs-acc-admin/install-the-client-console.md)
