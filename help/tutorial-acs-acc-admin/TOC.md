@@ -15,5 +15,5 @@ index: no
 + [Configure Channels]{#configure-channels}
   + [Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/en/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview)
 + [Delivery Management]{#delivery-management}
-  + [Manage fatigues using typology rules]
-  + [Manage fatigue using predefined filters]
+  + [Manage fatigues using typology rules](https://experienceleague.adobe.com/en/docs/campaign-learn/tutorials/sending-messages/fatigue-management/typology-rules-for-fatigue-management)
+  + [Manage fatigue using predefined filters](https://experienceleague.adobe.com/en/docs/campaign-learn/tutorials/sending-messages/fatigue-management/fatigue-management-using-filters)
