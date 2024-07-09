@@ -22,39 +22,53 @@ To get started select your role below:
       <img alt="Campaign Manager"src="./_assets/digital_marketing.jpeg"/>
     </a>
     <div>
-      <a href="get_started_for_marketers.md">
+  </td>
+  <td>
+  <a href="../help/tutorial-get-started-with-acv8/get-started-for-administrators-developers.md">
+    <img alt="Administrator" src="./_assets/admin.jpeg"/>
+    </a>
+    <div>
+  </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="get_started_for_marketers.md">
     <strong>Marketer</strong>
     </a>
-    <br>
+    </td>
+    <td>
+      <a href="../help/tutorial-get-started-with-acv8/get-started-for-administrators-developers.md">
+      <strong>Administrator</strong>
+      </a>
+    </td>
+  </tr>
+    <td>
     <em>Campaign Manager, Media Marketing Specialist</em>
-    <br>
-    <br>
-    <p>
+    </td>
+    <td>
+      <em> System Administrator, Technical Marketing Specialist</em>
+    </td>
+  <tr>
+    <td>
     <b>Key tasks/responsibilities include:</b>
+    </td>
+      <td>
+    <b>Key tasks/responsibilities include:</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <li>Create marketing campaigns
       <li>Design workflows
       <li>Test and execute campaigns
       <li>Deploy multichannel campaigns
       <li>Optimize campaigns
       <li>Optimize automated campaigns
-    </p>
-    </div>
-  </td>
-  <td>
-    <a href="../help/tutorial-get-started-with-acv8/get-started-for-administrators-developers.md">
-    <img alt="Administrator" src="./_assets/admin.jpeg"/>
-    </a>
-    <div>
-      <a href="../help/tutorial-get-started-with-acv8/get-started-for-administrators-developers.md">
-    <strong>Administrator</strong>
-    </a>
-    <br>
-    <em> System Administrator, Technical Marketing Specialist</em>
-    <p><br>
-    <b>Key tasks/responsibilities include:</b>
-      <li>Access management
-      <li>System configuration
-      <li> System customization
+    </td>
+    <td>
+        <li>Access management
+        <li>System configuration
+        <li> System customization
     </td>
 </tr>
 </table>

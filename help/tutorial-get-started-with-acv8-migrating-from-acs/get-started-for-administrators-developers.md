@@ -12,7 +12,7 @@ This tutorial gives an overview over the key administrative and data management 
 
 ## Pre requisites
 
-1. Install the client console
+### 1. Install the client console
 
 The main administration and configuration tasks are performed in the [Admin Console]. The first step is to set up your environment. The following video explains how to download and install the Adobe Campaign Client Console, create and manage your connections to multiple environments, and verify access to the Adobe Campaign Client console.
 
@@ -20,9 +20,9 @@ The main administration and configuration tasks are performed in the [Admin Cons
 
 For more information see [Connect to Campaign with the client console](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect){{target="_blank"}}.
 
-2. Undertand the Campaign v8 Architecture
+### 2. Understand the Campaign v8 Architecture
 
-See [Get Started with Campaign architecture](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/architecture/architecture){{target="_blank"}} to understand the Campaign architecture before starting to structure and organize you instance
+See [Get Started with Campaign architecture](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/architecture/architecture){{target="_blank"}} to understand the Campaign architecture before starting to structure and organize your instance
 
 ## Configure your instance 
 
