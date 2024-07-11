@@ -52,4 +52,12 @@ This functionality is currently only available via the client console:
 * [Create and manage subscription services](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-services)
 * [Manage subscribers](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers)
 
+## Create a targeting workflow
+
+* [Create a campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/campaigns/gs-campaigns.html?lang=en)
+* [Get started with workflows](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/gs-workflows)
+
+* Understand how workflows work and how to create a targeting workflow.
+
+    >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
 
