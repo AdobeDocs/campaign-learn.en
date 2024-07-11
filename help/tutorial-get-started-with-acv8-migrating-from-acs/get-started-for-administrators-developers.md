@@ -18,11 +18,11 @@ The main administration and configuration tasks are performed in the [Admin Cons
 
 >[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
 
-For more information see [Connect to Campaign with the client console](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect){{target="_blank"}}.
+For more information see [Connect to Campaign with the client console](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect){target="_blank"}.
 
 ### 2. Understand the Campaign v8 Architecture
 
-See [Get Started with Campaign architecture](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/architecture/architecture){{target="_blank"}} to understand the Campaign architecture before starting to structure and organize your instance
+See [Get Started with Campaign architecture](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/architecture/architecture){target="_blank"} to understand the Campaign architecture before starting to structure and organize your instance
 
 ## Configure your instance 
 

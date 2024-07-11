@@ -21,7 +21,7 @@ Learn how to install and configure Campaign client console in [this section](htt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
 
-Use the [AI-powered contextual help](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/using-ai){{target="_blank"}} to access the product documentation within the UI. 
+Use the [AI-powered contextual help](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/using-ai){target="_blank"} to access the product documentation within the UI. 
 
 
 ## Create and manage profiles and audiences
@@ -38,7 +38,7 @@ The general concept of creating and managing audiences in Campaign v8 is the sam
 
 3. [Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/test-profiles)
 
-## Create and manage Landing pages
+## Create and manage landing pages
 
 * [Get started with landing pages](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/get-started-lp)
 * [Create and publish a landing page](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/create-lp)
@@ -49,4 +49,7 @@ The general concept of creating and managing audiences in Campaign v8 is the sam
 
 This functionality is currently only available via the client console: 
 
-* [Manage Subscriptions (Client Console)](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/audience/subscriptions)
+* [Create and manage subscription services](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-services)
+* [Manage subscribers](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers)
+
+
