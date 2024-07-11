@@ -1,7 +1,7 @@
 ---
 title: Get started with Adobe Campaign v8 for marketers
 description: This tutorial gives an overview over the key functionality of Campaign v8. It is for marketers migrating from Campaign Standard to Campaign v8.
-role: Admin, Developer
+role: User
 level: Beginner, Experienced
 jira: KT-15788
 ---
@@ -62,3 +62,21 @@ This functionality is currently only available via the client console:
     >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
 
 * [Work with workflow activities](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
+
+## Create and manage an email delivery
+
+* Learn how to create an email delivery from scratch, define the audience, design the content, simulate preview, and send a proof.
+  
+  >[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+
+* Understand how to navigate the Email Designer. Learn how to structure and design an email from scratch, how to personalize, and test your email.
+  
+    >[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+
+* Learn how to create an email by uploading HTML, how to make it compatible with the email designer and how to convert it to a template.
+
+    >[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+
+* Learn how to preview email message content and personalization, send test deliveries (proofs) to specific recipients or subscribers for testing and validation, and check the email rendering in popular desktop, mobile and web-based clients.
+
+    >[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
