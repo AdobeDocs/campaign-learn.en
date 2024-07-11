@@ -12,11 +12,6 @@ This tutorial gives an overview over the key functionality of Campaign v8. It is
 
 You can access Adobe Campaign v8 via the client console or the Web user interface. This web interface lets you create, manage and execute key marketing actions. 
 
- Not all Campaign capabilities are available in the web UI yet. For certain activities, you might need to access the client console. 
-
-Learn how to install and configure Campaign client console in [this section](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect){target="_blank"}.
-
-
 ## Access and Explore the Campaign Web User Interface
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
@@ -99,6 +94,25 @@ Learn how to preview email message content and personalization, send test delive
 
 ## Create and manage Push delivery
 
-##
+## Create and manage landing pages
 
+1. [Get started with landing pages](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/get-started-lp){target="_blank"}
+2. [Create and publish a landing page](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/create-lp){target="_blank"}
+3. [Design landing page content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-content){target="_blank"}
+4.  [Work with landing page templates](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates){target="_blank"}
 
+## Content Management
+
+## Delivery best practices
+
+## Reporting
+
+## Integrations
+
+* [Manage assets with Adobe Experience Manager Assets as a Cloud Service] (https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets)
+* [Manage templates with Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content)
+* Using AEM email templates and assets in campaign's email delivery
+* Using multi-lingual AEM email templates in campaign's email delivery 
+* Using Dynamic images from Adobe Target into an email delivery
+* Using Triggers in campaigns
+* Using ACC SOAP API
