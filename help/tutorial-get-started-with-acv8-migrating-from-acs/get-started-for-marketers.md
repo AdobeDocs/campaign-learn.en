@@ -17,14 +17,18 @@ You can access Adobe Campaign v8 via the client console or the Web user interfac
 Learn how to install and configure Campaign client console in [this section](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect){target="_blank"}.
 
 
-## Explore the Campaign Web User Interface
+## Access and Explore the Campaign Web User Interface
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
+
+## Find help and guidance
 
 Use the [AI-powered contextual help](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/using-ai){target="_blank"} to access the product documentation within the UI. 
 
 
 ## Create and manage profiles and audiences
+
+### Manage audiences
 
 The general concept of creating and managing audiences in Campaign v8 is the same as in Adobe Campaign Standard.
 
@@ -38,14 +42,7 @@ The general concept of creating and managing audiences in Campaign v8 is the sam
 
 3. [Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/test-profiles){target="_blank"}
 
-## Create and manage landing pages
-
-* [Get started with landing pages](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/get-started-lp){target="_blank"}
-* [Create and publish a landing page](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/create-lp){target="_blank"}
-* [Design landing page content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-content){target="_blank"}
-* [Work with landing page templates](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates){target="_blank"}
-
-## Manage Subscriptions
+### Manage subscriptions
 
 This functionality is currently only available via the client console: 
 
@@ -54,8 +51,11 @@ This functionality is currently only available via the client console:
 
 ## Create a targeting workflow
 
-* [Create a campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/campaigns/gs-campaigns.html?lang=en){target="_blank"}
-* [Get started with workflows](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/gs-workflows){target="_blank"}
+### Create a campaign 
+
+[Create a campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/campaigns/gs-campaigns.html?lang=en){target="_blank"}
+
+### Create a workflow
 
 * Understand how workflows work and how to create a targeting workflow.
 
@@ -65,9 +65,13 @@ This functionality is currently only available via the client console:
 
 ## Create and manage an email delivery
 
-* Learn how to create an email delivery from scratch, define the audience, design the content, simulate preview, and send a proof.
+## Create an email delivery
+
+Learn how to create an email delivery from scratch, define the audience, design the content, simulate preview, and send a proof.
   
-  >[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+
+### Design and define content
 
 * Understand how to navigate the Email Designer. Learn how to structure and design an email from scratch, how to personalize, and test your email.
   
@@ -77,6 +81,24 @@ This functionality is currently only available via the client console:
 
     >[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
 
-* Learn how to preview email message content and personalization, send test deliveries (proofs) to specific recipients or subscribers for testing and validation, and check the email rendering in popular desktop, mobile and web-based clients.
+### Preview and test
 
-    >[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+Learn how to preview email message content and personalization, send test deliveries (proofs) to specific recipients or subscribers for testing and validation, and check the email rendering in popular desktop, mobile and web-based clients.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+
+### Send email and check logs
+
+* [Prepare and send an email](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/prepare-send)
+* [Schedule the sending of a delivery](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending)
+
+* [Monitor delivery logs](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs)
+  
+
+## Create and manage SMS delivery
+
+## Create and manage Push delivery
+
+##
+
+
