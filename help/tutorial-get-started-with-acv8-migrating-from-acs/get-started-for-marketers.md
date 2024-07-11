@@ -14,7 +14,7 @@ You can access Adobe Campaign v8 via the client console or the Web user interfac
 
  Not all Campaign capabilities are available in the web UI yet. For certain activities, you might need to access the client console. 
 
-Learn how to install and configure Campaign client console in [this section](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect).
+Learn how to install and configure Campaign client console in [this section](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect){target="_blank"}.
 
 
 ## Explore the Campaign Web User Interface
@@ -36,28 +36,29 @@ The general concept of creating and managing audiences in Campaign v8 is the sam
 
     >[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
 
-3. [Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/test-profiles)
+3. [Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/test-profiles){target="_blank"}
 
 ## Create and manage landing pages
 
-* [Get started with landing pages](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/get-started-lp)
-* [Create and publish a landing page](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/create-lp)
-* [Design landing page content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-content)
-* [Work with landing page templates](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates)
+* [Get started with landing pages](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/get-started-lp){target="_blank"}
+* [Create and publish a landing page](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/create-lp){target="_blank"}
+* [Design landing page content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-content){target="_blank"}
+* [Work with landing page templates](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates){target="_blank"}
 
 ## Manage Subscriptions
 
 This functionality is currently only available via the client console: 
 
-* [Create and manage subscription services](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-services)
-* [Manage subscribers](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers)
+* [Create and manage subscription services](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-services){target="_blank"}
+* [Manage subscribers](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers){target="_blank"}
 
 ## Create a targeting workflow
 
-* [Create a campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/campaigns/gs-campaigns.html?lang=en)
-* [Get started with workflows](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/gs-workflows)
+* [Create a campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/campaigns/gs-campaigns.html?lang=en){target="_blank"}
+* [Get started with workflows](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/gs-workflows){target="_blank"}
 
 * Understand how workflows work and how to create a targeting workflow.
 
     >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
 
+* [Work with workflow activities](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
