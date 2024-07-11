@@ -44,11 +44,13 @@ This functionality is currently only available via the client console:
 * [Create and manage subscription services](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-services){target="_blank"}
 * [Manage subscribers](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers){target="_blank"}
 
-## Create a targeting workflow
+## Create and manage targeting workflows
 
 ### Create a campaign 
 
-[Create a campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/campaigns/gs-campaigns.html?lang=en){target="_blank"}
+1. [Get started with campaigns](https://experienceleague.adobe.com/docs/campaign-web/v8/campaigns/gs-campaigns.html?lang=en){target="_blank"}
+2. [Access and manage your campaigns](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/manage-campaigns)
+3. [Create your first campaign](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/create-campaigns)
 
 ### Create a workflow
 
@@ -57,6 +59,8 @@ This functionality is currently only available via the client console:
     >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
 
 * [Work with workflow activities](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
+* [Guardrails and limitations for workflows](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/guardrails)
+* [Workflow event variables](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/event-variables)
 
 ## Create and manage an email delivery
 
