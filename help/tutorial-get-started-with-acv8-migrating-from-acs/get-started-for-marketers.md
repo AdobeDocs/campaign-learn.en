@@ -6,11 +6,11 @@ level: Beginner, Experienced
 jira: KT-15788
 ---
 
-# Get started with Adobe Campaign v8 for marketers
+# Get started with Adobe Campaign v8 for marketers - Reference guide
 
-This tutorial gives an overview over the key functionality of Campaign v8. It is for marketers migrating from Campaign Standard to Campaign v8.
+This guide gives an overview over the key functionality of Campaign v8. It is for marketers migrating from Campaign Standard to Campaign v8.
 
-You can access Adobe Campaign v8 via the client console or the Web user interface. This web interface lets you create, manage and execute key marketing actions. 
+You can access Adobe Campaign v8 via the client console or the Web user interface. The web interface lets you create, manage and execute key marketing actions. 
 
 ## Access and Explore the Campaign Web User Interface
 
