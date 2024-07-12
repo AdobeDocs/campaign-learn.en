@@ -71,21 +71,21 @@ Learn how to create an email delivery from scratch, define the audience, design 
 
 1. **Design and define content**
 
-   1. Understand how to navigate the Email Designer. Learn how to structure and design an email from scratch, how to personalize, and test your email.
+   Understand how to navigate the Email Designer. Learn how to structure and design an email from scratch, how to personalize, and test your email.
 
     >[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
 
-   1. Learn how to create an email by uploading HTML, how to make it compatible with the Email Designer and how to convert it to a template.
+   Learn how to create an email by uploading HTML, how to make it compatible with the Email Designer and how to convert it to a template.
 
     >[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
 
-1. **Preview and test**
+2. **Preview and test**
 
     Learn how to preview email message content and personalization, send test deliveries (proofs) to specific recipients or subscribers for testing and validation, and check the email rendering in popular desktop, mobile and web-based clients.
 
     >[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
 
-1. **Send email and check logs**
+3. **Send email and check logs**
 
    * [Prepare and send an email](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/prepare-send)
    * [Schedule the sending of a delivery](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending)
