@@ -39,8 +39,34 @@ The general concept of creating and managing audiences in Campaign v8 is the sam
 
 ### Manage subscriptions
 
-1. [Manage subscribers](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers){target="_blank"}
-2. [Send messages to the subscribers of a service](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/send-to-subscribers){target="_blank"}
+<table style="table-layout:fixed"><tr style="border: 0;">
+<td>
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-services">
+<img alt="Infrequent" src="_assets/lp-list.jpg">
+</a>
+<div>
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-services"><strong>Create subscription services</strong></a>
+</div>
+<p></td>
+<td>
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers">
+<img alt="Infrequent" src="_assets/workflow-activities.jpeg">
+</a>
+<div>
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers"><strong>Manage subscribers<strong></strong></a>
+</div>
+<p></td>
+<td>
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/send-to-subscribers">
+<img alt="Validation" src="_assets/workflow-create.jpeg">
+</a>
+<div>
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/send-to-subscribers"><strong>Send messages to the subscribers of a service</strong></a>
+</div>
+<p>
+</td>
+</tr>
+</table>
 
 ## Create and manage targeting workflows
 
@@ -175,14 +201,6 @@ Learn how to create an email delivery from scratch, define the audience, design 
 </div>
 <p>
 </td>
-<td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-services">
-<img alt="Infrequent" src="_assets/lp-list.jpg">
-</a>
-<div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-services"><strong>Create subscription services</strong></a>
-</div>
-<p></td>
 <td>
 <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-content">
 <img alt="Validation" src="_assets/lp-design.jpg">
