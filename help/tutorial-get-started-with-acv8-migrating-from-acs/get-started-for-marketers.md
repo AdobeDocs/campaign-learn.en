@@ -1,6 +1,6 @@
 ---
 title: Get started with Adobe Campaign v8 for marketers
-description: This tutorial gives an overview over the key functionality of Campaign v8. It is for marketers migrating from Campaign Standard to Campaign v8.
+description: This tutorial gives an overview of the key functionality of Campaign v8. It is for marketers migrating from Campaign Standard to Campaign v8.
 role: User
 level: Beginner, Experienced
 jira: KT-15788
@@ -8,9 +8,9 @@ jira: KT-15788
 
 # Get started with Adobe Campaign v8 for marketers - Reference guide
 
-This guide gives an overview over the key functionality of Campaign v8. It is for marketers migrating from Campaign Standard to Campaign v8.
+This guide gives an overview of the key functionality of Campaign v8. It is for marketers migrating from Campaign Standard to Campaign v8.
 
-You can access Adobe Campaign v8 via the client console or the Web user interface. The web interface lets you create, manage and execute key marketing actions. 
+You can access Adobe Campaign v8 via the client console or the Web User Interface. The web interface lets you create, manage and execute key marketing actions. 
 
 ## Access and Explore the Campaign Web User Interface
 
@@ -47,7 +47,7 @@ The general concept of creating and managing audiences in Campaign v8 is the sam
 
 ### Create a campaign 
 
-1. [Get started with campaigns](https://experienceleague.adobe.com/docs/campaign-web/v8/campaigns/gs-campaigns.html?lang=en){target="_blank"}
+1. [Get started with campaigns](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/gs-campaigns){target="_blank"}
 2. [Access and manage your campaigns](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/manage-campaigns){target="_blank"}
 3. [Create your first campaign](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/create-campaigns)
 
@@ -75,7 +75,7 @@ Learn how to create an email delivery from scratch, define the audience, design 
 
     >[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
 
-   1. Learn how to create an email by uploading HTML, how to make it compatible with the email designer and how to convert it to a template.
+   1. Learn how to create an email by uploading HTML, how to make it compatible with the Email Designer and how to convert it to a template.
 
     >[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
 
@@ -130,7 +130,7 @@ Learn how to create an email delivery from scratch, define the audience, design 
 
 ## Send deliveries
 
-* [Schedule a stand alone delivery](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/gs-deliveries#gs-schedule){target="_blank"}
+* [Schedule a stand-alone delivery](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/gs-deliveries#gs-schedule){target="_blank"}
 * [Schedule a delivery in a workflow](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending#schedule-a-delivery-in-a-campaign-workflow){target="_blank"}
 
 ## Track and monitor
@@ -154,11 +154,11 @@ Learn how to create an email delivery from scratch, define the audience, design 
 
 ### Other 
 
-The following integrations are available from Adobe Campaign client console, and not yet available in Campaign Web user interface. Use the provided links to browse the Campaign v8 (client console) documentation and learn more about these integrations:
+The following integrations are available from the Adobe Campaign client console, and not yet available in the Campaign Web User Interface. Use the provided links to browse the Campaign v8 (client console) documentation and learn more about these integrations:
 
-* Adobe Analytics data usage and KPI sharing. [Learn more](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/ac-aa.html){target="_blank"}
-* Audience sharing with Adobe Experience Cloud (Adobe Audience Manager). [Learn more](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud.html){target="_blank"}
-* Integration with Adobe Target. [Learn more](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/ac-at.html){target="_blank"}
-* Integration with Adobe Experience Cloud Triggers. [Learn more](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/ac-triggers.html){target="_blank"}
+* Adobe Analytics data usage and KPI sharing. [Learn more](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa){target="_blank"}
+* Audience sharing with Adobe Experience Cloud (Adobe Audience Manager). [Learn more](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud){target="_blank"}
+* Integration with Adobe Target. [Learn more](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at){target="_blank"}
+* Integration with Adobe Experience Cloud Triggers. [Learn more](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-triggers){target="_blank"}
 
 
