@@ -39,28 +39,27 @@ The general concept of creating and managing audiences in Campaign v8 is the sam
 
 ### Manage subscriptions
 
-This functionality is currently only available via the client console: 
-
 1. [Create and manage subscription services](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-services){target="_blank"}
 2. [Manage subscribers](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers){target="_blank"}
+3. [Send messages to the subscribers of a service](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/send-to-subscribers){target="_blank"}
 
 ## Create and manage targeting workflows
 
 ### Create a campaign 
 
 1. [Get started with campaigns](https://experienceleague.adobe.com/docs/campaign-web/v8/campaigns/gs-campaigns.html?lang=en){target="_blank"}
-2. [Access and manage your campaigns](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/manage-campaigns)
+2. [Access and manage your campaigns](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/manage-campaigns){target="_blank"}
 3. [Create your first campaign](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/create-campaigns)
 
 ### Create a workflow
 
-* Understand how workflows work and how to create a targeting workflow.
+1. Understand how workflows work and how to create a targeting workflow.
 
     >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
 
-* [Work with workflow activities](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
-* [Guardrails and limitations for workflows](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/guardrails)
-* [Workflow event variables](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/event-variables)
+1. [Work with workflow activities](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
+1. [Guardrails and limitations for workflows](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/guardrails)
+1. [Workflow event variables](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/event-variables)
 
 ## Create and manage deliveries
 
@@ -72,13 +71,13 @@ Learn how to create an email delivery from scratch, define the audience, design 
 
 1. **Design and define content**
 
-   * Understand how to navigate the Email Designer. Learn how to structure and design an email from scratch, how to personalize, and test your email.
-     
+   1. Understand how to navigate the Email Designer. Learn how to structure and design an email from scratch, how to personalize, and test your email.
+
     >[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
 
-   * Learn how to create an email by uploading HTML, how to make it compatible with the email designer and how to convert it to a template.
+   1. Learn how to create an email by uploading HTML, how to make it compatible with the email designer and how to convert it to a template.
 
-     >[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+    >[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
 
 1. **Preview and test**
 
@@ -110,6 +109,11 @@ Learn how to create an email delivery from scratch, define the audience, design 
 2. [Define content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/content-direct-mail)  
 3. [Preview and send](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/send-direct-mail)
 
+### Delivery best practices
+
+* [Use delivery templates](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/delivery-template){target="_blank"} 
+* Checks before sending
+
 ## Create and manage landing pages
 
 1. [Get started with landing pages](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/get-started-lp){target="_blank"}
@@ -117,22 +121,44 @@ Learn how to create an email delivery from scratch, define the audience, design 
 3. [Design landing page content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-content){target="_blank"}
 4.  [Work with landing page templates](https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates){target="_blank"}
 
-## Content Management
+## Content management
 
-* [Personalize content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/personalize)
-* [Conditional content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/conditions)
-* [Content blocks](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/content-blocks)
+* [Personalize content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/personalize){target="_blank"}
+* [Conditional content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/conditions){target="_blank"}
+* [Content blocks](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/content-blocks){target="_blank"}
+* [Add offers to your messages](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers){target="_blank"}[Add offers to your]
 
-## Delivery best practices
+## Send deliveries
+
+* [Schedule a stand alone delivery](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/gs-deliveries#gs-schedule){target="_blank"}
+* [Schedule a delivery in a workflow](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending#schedule-a-delivery-in-a-campaign-workflow){target="_blank"}
+
+## Track and monitor
+
+* [Message logs and delivery logs](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs){target="_blank"}
+* [Understand delivery failures](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/failures/delivery-failures){target="_blank"}
 
 ## Reporting
 
+* [Campaign reports](https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/campaign-report/campaign-reports){target="_blank"}
+* [Delivery reports](https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/delivery-report/delivery-reports){target="_blank"}
+* [Global reports](https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/global-report/global-reports){target="_blank"}
+
+
 ## Integrations
 
-* [Manage assets with Adobe Experience Manager Assets as a Cloud Service](https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets)
-* [Manage templates with Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content)
-* Using AEM email templates and assets in campaign's email delivery
-* Using multi-lingual AEM email templates in campaign's email delivery 
-* Using Dynamic images from Adobe Target into an email delivery
-* Using Triggers in campaigns
-* Using ACC SOAP API
+### Adobe Experience Manager
+
+* [Manage assets with Adobe Experience Manager Assets as a Cloud Service](https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets){target="_blank"}
+* [Manage templates with Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content){target="_blank"}
+
+### Other 
+
+The following integrations are available from Adobe Campaign client console, and not yet available in Campaign Web user interface. Use the provided links to browse the Campaign v8 (client console) documentation and learn more about these integrations:
+
+* Adobe Analytics data usage and KPI sharing. [Learn more](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/ac-aa.html){target="_blank"}
+* Audience sharing with Adobe Experience Cloud (Adobe Audience Manager). [Learn more](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud.html){target="_blank"}
+* Integration with Adobe Target. [Learn more](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/ac-at.html){target="_blank"}
+* Integration with Adobe Experience Cloud Triggers. [Learn more](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/ac-triggers.html){target="_blank"}
+
+
