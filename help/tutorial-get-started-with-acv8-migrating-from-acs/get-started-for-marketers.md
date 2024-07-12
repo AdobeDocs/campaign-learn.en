@@ -49,7 +49,7 @@ The general concept of creating and managing audiences in Campaign v8 is the sam
 
 1. [Get started with campaigns](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/gs-campaigns){target="_blank"}
 2. [Access and manage your campaigns](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/manage-campaigns){target="_blank"}
-3. [Create your first campaign](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/create-campaigns)
+3. [Create your first campaign](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/create-campaigns){target="_blank"}
 
 ### Create a workflow
 
@@ -58,8 +58,8 @@ The general concept of creating and managing audiences in Campaign v8 is the sam
     >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
 
 1. [Work with workflow activities](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
-1. [Guardrails and limitations for workflows](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/guardrails)
-1. [Workflow event variables](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/event-variables)
+1. [Guardrails and limitations for workflows](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/guardrails){target="_blank"}
+1. [Workflow event variables](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/event-variables){target="_blank"}
 
 ## Create and manage deliveries
 
@@ -87,27 +87,27 @@ Learn how to create an email delivery from scratch, define the audience, design 
 
 3. **Send email and check logs**
 
-   * [Prepare and send an email](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/prepare-send)
-   * [Schedule the sending of a delivery](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending)
-   * [Monitor delivery logs](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs)
+   * [Prepare and send an email](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/prepare-send){target="_blank"}
+   * [Schedule the sending of a delivery](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending){target="_blank"}
+   * [Monitor delivery logs](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs){target="_blank"}
      
 ### SMS delivery
 
-1. [Create SMS delivery](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/create-sms)
-1. [Define content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/content-sms)
-1. [Preview and send](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/send-sms)
+1. [Create SMS delivery](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/create-sms){target="_blank"}
+1. [Define content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/content-sms){target="_blank"}
+1. [Preview and send](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/send-sms){target="_blank"}
 
 ### Push notification
 
-1. [Create Push delivery](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/push/create-push)
-1. [Define content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/push/content-push)
-1. [Preview and send](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/push/send-push)
+1. [Create Push delivery](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/push/create-push){target="_blank"}
+1. [Define content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/push/content-push){target="_blank"}
+1. [Preview and send](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/push/send-push){target="_blank"}
 
 ### Direct mail
 
 1. [Create Direct Mail delivery](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/create-direct-mail)
-2. [Define content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/content-direct-mail)  
-3. [Preview and send](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/send-direct-mail)
+2. [Define content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/content-direct-mail){target="_blank"}  
+3. [Preview and send](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/send-direct-mail){target="_blank"}
 
 ### Delivery best practices
 
