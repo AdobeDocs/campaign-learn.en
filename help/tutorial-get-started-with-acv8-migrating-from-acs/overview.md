@@ -9,11 +9,13 @@ recommendations: noCatalog
 
 # Get started with Adobe Campaign v8 after migrating from Campaign Standard - Overview
 
-Welcome to Adobe Campaign v8! 
+Welcome to Adobe Campaign v8!
 
-These tutorials are for users who migrated from Campaign Standard to Campaign v8. They help you familiarize yourself with your new Campaign instance and walk you through the steps required to get started for your role. 
+This reference guide has been designed for users who migrated from Campaign Standard to Campaign v8. It will help you familiarize yourself with your new Campaign instance and walk you through the steps required to get started for your role. 
 
-To get started select your role below:
+1. Start by Learning about the the key capabilities and terminology of Campaign v8. Review the [Campaign Standard transition to Campaign v8 guide](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration)
+
+2. Next select your role below to access the relevant reference guide for your role:
 
 <table>
 <tr>
@@ -25,7 +27,7 @@ To get started select your role below:
   </td>
   <td>
   <a href="get-started-for-administrators-developers.md">
-    <img alt="Administrator" src="./_assets/admin.jpeg"/>
+    <img alt="Administrator or developer" src="./_assets/admin.jpeg"/>
     </a>
     <div>
   </td>
@@ -38,7 +40,7 @@ To get started select your role below:
     </td>
     <td>
       <a href="get-started-for-administrators-developers.md">
-      <strong>Administrator</strong>
+      <strong>Administrator or Developer</strong>
       </a>
     </td>
   </tr>
