@@ -41,8 +41,8 @@ The general concept of creating and managing audiences in Campaign v8 is the sam
 
 This functionality is currently only available via the client console: 
 
-* [Create and manage subscription services](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-services){target="_blank"}
-* [Manage subscribers](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers){target="_blank"}
+1. [Create and manage subscription services](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-services){target="_blank"}
+2. [Manage subscribers](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-services/manage-subscribers){target="_blank"}
 
 ## Create and manage targeting workflows
 
