@@ -123,7 +123,7 @@ Learn how to create an email delivery from scratch, define the audience, design 
 
 <table style="table-layout:fixed"><tr style="border: 0;">
 <td>
-<a href="(https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/create-sms)">
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/create-sms">
 <img alt="Lead" src="_assets/create_sms.png">
 </a>
 <div><a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/sms/create-sms"><strong>Create an SMS delivery</strong>
