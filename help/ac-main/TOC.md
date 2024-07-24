@@ -43,6 +43,8 @@ auto-video-transcripts: true
     + [Use control groups](/help/send-messages/email/use-control-groups.md)
     + [Troubleshoot email delivery issues](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
     + [Design emails for deliverability](/help/send-messages/email/design-emails-for-deliverability.md)
+    + [Maximize email ROI and best practices for subscriber re-engagement](/help/strategy/campaign-maximize-email-best-practices.md)
+    + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
   + SMS {#sms}
     + [Create an SMS delivery](/help/send-messages/mobile/create-an-sms-delivery.md)
   + Push {#push}
@@ -97,6 +99,4 @@ auto-video-transcripts: true
   + [Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
 + Strategy & thought leadership{#strategy}
   + [Ten best practices to Adobe Campaign success for marketers](/help/strategy/10-best-practices-for-marketers.md)
-  + [Maximize email ROI and best practices for subscriber re-engagement](/help/strategy/campaign-maximize-email-best-practices.md)
-  + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
 + [Adobe Campaign Web User Interface tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
