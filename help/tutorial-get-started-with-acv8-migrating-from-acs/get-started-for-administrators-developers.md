@@ -41,7 +41,7 @@ Adobe Campaign lets you define and manage the rights assigned to users:
 
 ## Deployment
 
-* [Package import/export](){target="_blank"}
+* [Package import/export](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/packages){target="_blank"}
 
 ## Data Management
 

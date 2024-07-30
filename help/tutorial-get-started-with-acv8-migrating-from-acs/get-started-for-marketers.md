@@ -109,7 +109,7 @@ Use Adobe Campaign Web to manage and create your services such as newsletters, a
 >[!NOTE]
 > **Mirror page:**
 > Campaign provides the functionality of serving mirror pages for all the migrated or new deliveries sent from Campaign post migration.
-Mirror page does not work for old deliveries that were sent from ACS before migration.
+> Mirror page does not work for old deliveries that were sent from ACS before migration.
 >
 > **Tracking data:**
 > Post migration tracking data for RT transactional deliveries are not captured for RT deliveries initially sent from ACS. 
