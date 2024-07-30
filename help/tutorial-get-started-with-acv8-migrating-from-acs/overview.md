@@ -11,9 +11,9 @@ recommendations: noCatalog
 
 Welcome to Adobe Campaign v8!
 
-This reference guide has been designed for users who migrated from Campaign Standard to Campaign v8. It will help you familiarize yourself with your new Campaign instance and walk you through the steps required to get started for your role. 
+This reference guide has been designed for users who migrated from Campaign Standard to Campaign v8. It helps you familiarize yourself with your new Campaign instance and walk you through the steps required to get started for your role. 
 
-1. Start by Learning about the the key capabilities and terminology of Campaign v8. Review the [Campaign Standard transition to Campaign v8 guide](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration)
+1. Start by Learning about the key capabilities and terminology of Campaign v8. Review the [Campaign Standard transition to Campaign v8 guide](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration)
 
 2. Next select your role below to access the relevant reference guide for your role:
 

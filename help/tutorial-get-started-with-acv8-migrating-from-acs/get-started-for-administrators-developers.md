@@ -1,6 +1,6 @@
 ---
 title: Get started with Adobe Campaign v8 for administrators and developers.
-description: This tutorial gives an overview over the key administrative and data management functionality of Campaign v8. It is targeted for administrators and the technical marketer migrating from Campaign Standard to Campaign v8.
+description: This tutorial gives an overview of the key administrative and data management functionality of Campaign v8. It is targeted for administrators and the technical marketer migrating from Campaign Standard to Campaign v8.
 role: Admin, Developer
 level: Beginner, Experienced
 jira:  KT-15787
@@ -8,7 +8,7 @@ jira:  KT-15787
 
 # Get started with Adobe Campaign v8 for administrators and developers
 
-This tutorial gives an overview over the key administrative and data management functionality of Campaign v8. It is for administrators and technical marketers migrating from Campaign Standard to Campaign v8.
+This tutorial gives an overview of the key administrative and data management functionality of Campaign v8. It is for administrators and technical marketers migrating from Campaign Standard to Campaign v8.
 
 ## Understand the Campaign v8 Architecture
 
@@ -17,15 +17,15 @@ See [Get Started with Campaign architecture](https://experienceleague.adobe.com/
 
 ## Install the client console
 
-The main administration and configuration tasks are performed in the [Admin Console]. The first step is to set up your environment. The following video explains how to download and install the Adobe Campaign Client Console, create and manage your connections to multiple environments, and verify access to the Adobe Campaign Client console.
+The main administration and configuration tasks are performed in the [Admin Console]. The first step is to set up your environment. The following video explains how to download and install the Adobe Campaign Client Console and manage your connection to your instance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
 
-For more information see [Connect to Campaign with the client console](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect){target="_blank"}.
+For more information, see [Connect to Campaign with the client console](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect){target="_blank"}.
 
 ## Set up and manage access 
 
-Adobe Campaign lets you define and manage the rights assigned to users. These are a set of rights and restrictions that authorize or deny:
+Adobe Campaign lets you define and manage the rights assigned to users:
 
 * Access to certain capabilities
 * Access to certain data
@@ -37,7 +37,7 @@ Adobe Campaign lets you define and manage the rights assigned to users. These ar
 
 * Review the [Campaign implementation guidelines](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}to learn how to adjust Adobe Campaign to the requirements of your company and structure and organize your implementation.
 * [Channel Set up here](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
-* [Experience CLoud Triggers configuration](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
+* [Experience Cloud Triggers configuration](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
 
 ## Deployment
 
@@ -63,15 +63,15 @@ Learn how to create a schema and how to extend an existing schema.
 
 ### Change the data source
 
-Learn how to change the data source of a workflow working table using the Change Data Source Activity to flexibly manage data across different data sources such as FDA, FFDA, and local database.
+Learn how to change the data source of a workflow working table using the Change Data Source Activity to manage data across different data sources such as FDA, FFDA, and local database.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
 
-See the [product documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/workflows.html?lang=en#change-data-source-activity) for more information on this feature.
+See the [product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/data/workflows) for more information on this feature.
 
 ### Data replication
 
-Understand which databases Adobe Campaign V8 uses, why data is being replicated, which data is being replicated and how the replication process works.
+Understand which databases Adobe Campaign V8 uses, why and which data is being replicated, and how the replication process works.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334460?quality=12&learn=on){transcript=true}
   
@@ -81,7 +81,7 @@ Understand which databases Adobe Campaign V8 uses, why data is being replicated,
 
 ### API staging mechanism with FFDA
 
-Learn how the API staging mechanism with full FDA works. Understand why staging is used, the main principles of staging in Adobe campaign and how to activate the staging mechanism for a custom table.
+Learn how the API staging mechanism with full FDA works. Understand why staging is used, the main principles of staging in Adobe Campaign and how to activate the staging mechanism for a custom table.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339276?quality=12&learn=on){transcript=true}
 

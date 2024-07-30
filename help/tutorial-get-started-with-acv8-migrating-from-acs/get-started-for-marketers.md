@@ -13,7 +13,7 @@ This guide gives an overview of the key functionality of Campaign v8. It is for 
 You can access Adobe Campaign v8 via the client console or the Web User Interface. The web interface lets you create, manage and execute key marketing actions. 
 
 >[!NOTE]
-> Adobe Campaign Web user interface releases operate on a continuous delivery model which allows for a more scalable, phased approach to feature deployment. Please check the [Release Notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) regularly for the latest updates. 
+> Adobe Campaign Web user interface releases operate on a continuous delivery model, which allows for a more scalable, phased approach to feature deployment. Please check the [Release Notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) regularly for the latest updates. 
 
 ## Access and Explore the Campaign Web User Interface
 
@@ -102,18 +102,18 @@ Use Adobe Campaign Web to manage and create your services such as newsletters, a
 1. [Guardrails and limitations for workflows](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/guardrails){target="_blank"}
 
 >[!NOTE] 
-> Historical logs for workflows executed on ACS instance will not be migrated to AC.
+> Historical logs for workflows executed on ACS instance are not migrated to AC.
 
 ## Create and manage deliveries
 
 >[!NOTE]
 > **Mirror page:**
 > Campaign provides the functionality of serving mirror pages for all the migrated or new deliveries sent from Campaign post migration.
-Mirror page will not work for old deliveries that were sent from ACS before migration.
+Mirror page does not work for old deliveries that were sent from ACS before migration.
 >
 > **Tracking data:**
-> Post migration tracking data for RT transactional deliveries won't be captured for RT deliveries initially sent from ACS. 
-> There is no impact on the URL functionality. Redirections will work, and URLs will open.
+> Post migration tracking data for RT transactional deliveries are not captured for RT deliveries initially sent from ACS. 
+> There is no impact on the URL functionality. Redirections work, and URLs open.
 > There is no impact on batch deliveries sent from MID instances.
 
 ### Email delivery
@@ -134,7 +134,7 @@ Learn how to create an email delivery from scratch, define the audience, design 
 
 2. **Preview and test**
 
-    Learn how to preview email message content and personalization, send test deliveries (proofs) to specific recipients or subscribers for testing and validation, and check the email rendering in popular desktop, mobile and web-based clients.
+    Learn how to preview email message content and personalization, send test deliveries (proofs) and check the email rendering in popular desktop, mobile and web-based clients.
 
     >[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
 
@@ -176,7 +176,7 @@ Learn how to create an email delivery from scratch, define the audience, design 
 
 ### Create and manage push notifications
 
-Adobe Campaign v8 supports both Android and iOS Push Channel. To transition existing workflows and deliveries using the Push Channel please connect with your Adobe Campaign Transition Manager.  
+Adobe Campaign v8 supports both Android&trade; and iOS Push Channel. To transition existing workflows and deliveries that are using the Push Channel, please connect with your Adobe Campaign Transition Manager.  
 
 <table style="table-layout:fixed"><tr style="border: 0;">
 <td>
@@ -222,7 +222,7 @@ Adobe Campaign v8 supports both Android and iOS Push Channel. To transition exis
 ## Create and manage landing pages
 
 >[!NOTE] 
-> Please review HTML Landing Pages, you might have to adjust the settings of the Click to Action button.
+> Please review HTML Landing Pages. You might have to adjust the settings of the Click to Action button.
 
 <table style="table-layout:fixed"><tr style="border: 0;">
 <td>
