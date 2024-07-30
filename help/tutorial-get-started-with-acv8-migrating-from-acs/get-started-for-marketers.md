@@ -12,13 +12,21 @@ This guide gives an overview of the key functionality of Campaign v8. It is for 
 
 You can access Adobe Campaign v8 via the client console or the Web User Interface. The web interface lets you create, manage and execute key marketing actions. 
 
+>[!NOTE]
+> Adobe Campaign Web user interface releases operate on a continuous delivery model which allows for a more scalable, phased approach to feature deployment. Please check the [Release Notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) regularly for the latest updates. 
+
 ## Access and Explore the Campaign Web User Interface
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
 
+1. [Discover the interface](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/user-interface)
+2. [Browse and Filter List](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/list-filters)
+
 ## Find help and guidance
 
 Use the [AI-powered contextual help](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/using-ai){target="_blank"} to access the product documentation within the UI. 
+
+[Adobe Campaign Web User Interface Documentation](Adobe Campaign Web User Interface Documentation)
 
 
 ## Create and manage profiles and audiences
@@ -30,14 +38,20 @@ The general concept of creating and managing audiences in Campaign v8 is the sam
 1. Learn how to access, manage, and explore profiles using the Campaign Web User Interface.
 
     >[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
+    
+    See [Get started with Profiles](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"} for more information.
 
 2. Learn how to build and manage audiences, how to select audiences for a delivery, and define control groups.
 
     >[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
 
+    See [Get started with Audiences](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"} for more information.
+
 3. [Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/test-profiles){target="_blank"}
 
 ### Manage subscriptions
+
+Use Adobe Campaign Web to manage and create your services such as newsletters, and to check the subscriptions or unsubscriptions to these services. Learn more: 
 
 <table style="table-layout:fixed"><tr style="border: 0;">
 <td>
@@ -68,7 +82,7 @@ The general concept of creating and managing audiences in Campaign v8 is the sam
 </tr>
 </table>
 
-## Create and manage targeting workflows
+## Create and manage Cross-channel Campaigns and workflows
 
 ![Campaign flow](/help/tutorial-get-started-with-acv8-migrating-from-acs/_assets/campaign-flow.png)
 
@@ -86,10 +100,21 @@ The general concept of creating and managing audiences in Campaign v8 is the sam
 
 1. [Work with workflow activities](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
 1. [Guardrails and limitations for workflows](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/guardrails){target="_blank"}
-1. [Workflow event variables](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/event-variables){target="_blank"}
 
+>[!NOTE] 
+> Historical logs for workflows executed on ACS instance will not be migrated to AC.
 
 ## Create and manage deliveries
+
+>[!NOTE]
+> **Mirror page:**
+> Campaign provides the functionality of serving mirror pages for all the migrated or new deliveries sent from Campaign post migration.
+Mirror page will not work for old deliveries that were sent from ACS before migration.
+>
+> **Tracking data:**
+> Post migration tracking data for RT transactional deliveries won't be captured for RT deliveries initially sent from ACS. 
+> There is no impact on the URL functionality. Redirections will work, and URLs will open.
+> There is no impact on batch deliveries sent from MID instances.
 
 ### Email delivery
 
@@ -149,7 +174,9 @@ Learn how to create an email delivery from scratch, define the audience, design 
 </td>
 </tr></table>
 
-### Push notification
+### Create and manage push notifications
+
+Adobe Campaign v8 supports both Android and iOS Push Channel. To transition existing workflows and deliveries using the Push Channel please connect with your Adobe Campaign Transition Manager.  
 
 <table style="table-layout:fixed"><tr style="border: 0;">
 <td>
@@ -180,6 +207,9 @@ Learn how to create an email delivery from scratch, define the audience, design 
 
 ### Direct mail
 
+>[!NOTE] 
+>Data and Configuration migration of ACS Direct Mail Deliveries to Adobe Campaign v8 is on the roadmap. 
+
 1. [Create Direct Mail delivery](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/create-direct-mail)
 2. [Define content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/content-direct-mail){target="_blank"}  
 3. [Preview and send](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/send-direct-mail){target="_blank"}
@@ -191,6 +221,8 @@ Learn how to create an email delivery from scratch, define the audience, design 
 
 ## Create and manage landing pages
 
+>[!NOTE] 
+> Please review HTML Landing Pages, you might have to adjust the settings of the Click to Action button.
 
 <table style="table-layout:fixed"><tr style="border: 0;">
 <td>
@@ -215,7 +247,7 @@ Learn how to create an email delivery from scratch, define the audience, design 
 <img alt="Validation" src="_assets/lp-reporting.jpg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates"><strong>Work with content templates</strong></a>
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates"><strong>Work with landing page templates</strong></a>
 </div>
 <p>
 </td>
@@ -227,7 +259,10 @@ Learn how to create an email delivery from scratch, define the audience, design 
 * [Personalize content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/personalize){target="_blank"}
 * [Conditional content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/conditions){target="_blank"}
 * [Content blocks](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/content-blocks){target="_blank"}
-* [Add offers to your messages](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers){target="_blank"}[Add offers to your]
+* [Content fragments](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/fragments){target="_blank"}
+* [Add visual fragments to your emails](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/use-visual-fragments){target="_blank"}
+* [Add offers to your messages](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers){target="_blank"}
+* [Create email templates](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/create-email-templates){target="_blank"}
 
 ## Send deliveries
 
