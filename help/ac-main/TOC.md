@@ -13,6 +13,7 @@ auto-video-transcripts: true
 + [Key capabilities of Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
 + Get Started {#getting-started}
   + [Introduction to Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
+  + [Get started with Adobe Campaign v8 after migrating from Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
   + [Install and set up the Adobe Campaign Client Console](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
   + [Explore the Adobe Campaign user interface](/help/get-started/explore-the-adobe-campaign-user-interface.md)
   + [Manage marketing campaigns](/help/get-started/manage-marketing-campaigns.md)
