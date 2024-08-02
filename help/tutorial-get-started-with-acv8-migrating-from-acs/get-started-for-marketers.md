@@ -100,20 +100,7 @@ Use Adobe Campaign Web to manage and create your services such as newsletters, a
 1. [Work with workflow activities](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
 1. [Guardrails and limitations for workflows](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/guardrails){target="_blank"}
 
->[!NOTE] 
-> Historical logs for workflows executed on ACS instance are not migrated to AC.
-
 ## Create and manage deliveries
-
->[!NOTE]
-> **Mirror page:**
-> Campaign provides the functionality of serving mirror pages for all the migrated or new deliveries sent from Campaign post migration.
-> Mirror page does not work for old deliveries that were sent from ACS before migration.
->
-> **Tracking data:**
-> Post migration tracking data for RT transactional deliveries are not captured for RT deliveries initially sent from ACS. 
-> There is no impact on the URL functionality. Redirections work, and URLs open.
-> There is no impact on batch deliveries sent from MID instances.
 
 ### Email delivery
 
@@ -206,9 +193,6 @@ Adobe Campaign v8 supports both Android&trade; and iOS Push Channel. To transiti
 
 ### Direct mail
 
->[!NOTE] 
->Data and Configuration migration of ACS Direct Mail Deliveries to Adobe Campaign v8 is on the roadmap. 
-
 1. [Create Direct Mail delivery](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/create-direct-mail)
 2. [Define content](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/content-direct-mail){target="_blank"}  
 3. [Preview and send](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/send-direct-mail){target="_blank"}
@@ -216,12 +200,8 @@ Adobe Campaign v8 supports both Android&trade; and iOS Push Channel. To transiti
 ### Delivery best practices
 
 * [Use delivery templates](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/delivery-template){target="_blank"} 
-* Checks before sending
 
 ## Create and manage landing pages
-
->[!NOTE] 
-> Please review HTML Landing Pages. You might have to adjust the settings of the Click to Action button.
 
 <table style="table-layout:fixed"><tr style="border: 0;">
 <td>

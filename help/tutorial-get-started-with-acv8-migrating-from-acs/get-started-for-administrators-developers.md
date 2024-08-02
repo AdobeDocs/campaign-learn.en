@@ -54,34 +54,6 @@ Learn what targeting dimensions and working tables are, and how Adobe Campaign m
 
 ### Create and extend a schema
 
->[!NOTE]
->What is known as a custom resource in ACS, is a schema in Adobe Campaign
-
 Learn how to create a schema and how to extend an existing schema.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337939?quality=12&learn=on){transcript=true}
-
-### Change the data source
-
-Learn how to change the data source of a workflow working table using the Change Data Source Activity to manage data across different data sources such as FDA, FFDA, and local database.
-
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
-
-See the [product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/data/workflows) for more information on this feature.
-
-### Data replication
-
-Understand which databases Adobe Campaign V8 uses, why and which data is being replicated, and how the replication process works.
-
->[!VIDEO](https://video.tv.adobe.com/v/334460?quality=12&learn=on){transcript=true}
-  
-### SOAP APIs
-
-[Tutorial: Use SOAP APIs](https://experienceleague.adobe.com/en/docs/campaign-learn/use-soap-apis/introduction){target="_blank"}
-
-### API staging mechanism with FFDA
-
-Learn how the API staging mechanism with full FDA works. Understand why staging is used, the main principles of staging in Adobe Campaign and how to activate the staging mechanism for a custom table.
-
->[!VIDEO](https://video.tv.adobe.com/v/339276?quality=12&learn=on){transcript=true}
-
