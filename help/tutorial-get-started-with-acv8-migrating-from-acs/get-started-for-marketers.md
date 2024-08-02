@@ -6,7 +6,7 @@ level: Beginner, Experienced
 jira: KT-15788
 ---
 
-# Get started for marketers after migrating from Campaign Standard to Campaign v8
+# Get started for marketers
 
 This guide gives an overview of the key functionality of Campaign v8. It is for marketers migrating from Campaign Standard to Campaign v8.
 
