@@ -6,7 +6,7 @@ level: Beginner, Experienced
 jira:  KT-15787
 ---
 
-# Get started with Adobe Campaign v8 for administrators and developers
+# Get started for administrators and developers after migrating from Campaign Standard to Campaign v8
 
 This tutorial gives an overview of the key administrative and data management functionality of Campaign v8. It is for administrators and technical marketers migrating from Campaign Standard to Campaign v8.
 
