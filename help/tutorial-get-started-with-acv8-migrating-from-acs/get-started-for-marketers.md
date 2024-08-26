@@ -24,8 +24,6 @@ You can access Adobe Campaign v8 via the client console or the Web User Interfac
 
 ## Find help and guidance
 
-Use the [AI-powered contextual help](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/using-ai){target="_blank"} to access the product documentation within the UI. 
-
 [Adobe Campaign Web User Interface Documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
 ## Create and manage profiles and audiences
