@@ -4,8 +4,8 @@ description: This tutorial gives an overview of the key functionality of Campaig
 role: User
 level: Beginner, Experienced
 jira: KT-15788
+exl-id: 0d11eeed-414b-47a1-9c30-41d91a0e5900
 ---
-
 # Get started for marketers
 
 This guide gives an overview of the key functionality of Campaign v8. It is for marketers migrating from Campaign Standard to Campaign v8.
@@ -307,5 +307,3 @@ The following integrations are available from the Adobe Campaign client console,
 * Audience sharing with Adobe Experience Cloud (Adobe Audience Manager). [Learn more](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud){target="_blank"}
 * Integration with Adobe Target. [Learn more](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at){target="_blank"}
 * Integration with Adobe Experience Cloud Triggers. [Learn more](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-triggers){target="_blank"}
-
-

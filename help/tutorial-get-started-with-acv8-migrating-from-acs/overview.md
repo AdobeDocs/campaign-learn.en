@@ -1,12 +1,12 @@
 ---
 title: Get started with Adobe Campaign v8 after migrating from Campaign Standard - Overview
-description: These tutorials walk you through the steps required to get started with your new Campaign v8 application. 
+description: These tutorials walk you through the steps required to get started with your new Campaign v8 application.
 team: TM
 role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog
+exl-id: bb5979f8-4ca0-49f9-a061-2c0d21ef5b67
 ---
-
 # Get started with Adobe Campaign v8 after migrating from Campaign Standard - Overview
 
 Welcome to Adobe Campaign v8!
