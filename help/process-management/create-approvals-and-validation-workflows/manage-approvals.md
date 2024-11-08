@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: WWFRE
 role: User
-level: Beginner
+level: Intermediate
 exl-id: 5526b384-b270-4794-8ce3-7cfd8ddbe16b
 ---
 # Manage approvals in a campaign

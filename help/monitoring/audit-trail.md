@@ -8,7 +8,7 @@ activity: understand
 thumbnail: 342081.jpg
 team: PM
 role: Admin
-level: Beginner
+level: Intermediate
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
 ---
 # Audit Trail

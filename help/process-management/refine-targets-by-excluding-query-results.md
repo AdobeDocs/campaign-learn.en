@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 role: User
-level: Beginner
+level: Intermediate
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
 ---
 # Refine targets by excluding query results

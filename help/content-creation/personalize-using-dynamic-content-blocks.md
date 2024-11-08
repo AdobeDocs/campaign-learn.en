@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 role: Admin, Developer
-level: Beginner
+level: Experienced
 exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
 ---
 # Personalize emails using dynamic content blocks

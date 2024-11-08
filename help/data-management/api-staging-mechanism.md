@@ -7,7 +7,7 @@ thumbnail: 339276.jpg
 doc-type: feature video
 team: TM
 role: Admin, Developer
-level: Beginner
+level: Intermediate
 exl-id: f61a1d00-694a-4727-8a24-959cb0258046
 ---
 # API staging mechanism with FFDA

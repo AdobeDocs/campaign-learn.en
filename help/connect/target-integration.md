@@ -3,7 +3,7 @@ title: Integrate with Adobe Target
 description: Learn how to personalize a delivery with dynamic content served from Adobe Target.
 feature: Target Integration
 role: User
-level: Beginner, Intermediate, Experienced
+level: Intermediate, Experienced
 jira: KT-9601
 thumbnail: 341030.jpg
 exl-id: f5cf07fb-da4c-411d-bf78-6e9e83f43d30

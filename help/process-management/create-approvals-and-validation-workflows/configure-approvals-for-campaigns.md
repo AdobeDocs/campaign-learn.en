@@ -7,7 +7,7 @@ thumbnail: 338826.jpg
 doc-type: feature video
 activity: use
 role: User
-level: Beginner
+level: Intermediate
 exl-id: d72a01e2-fcf2-4ca4-83eb-5aeed79dd2bc
 ---
 # Configure approvals for campaigns 

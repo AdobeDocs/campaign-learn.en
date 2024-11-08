@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 role: User
-level: Beginner
+level: Intermediate
 exl-id: 68e4752b-3f75-499d-956b-4c6439a0d6ca
 ---
 # Create a multilingual newsletter using conditional content

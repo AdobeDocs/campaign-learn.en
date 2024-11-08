@@ -7,7 +7,7 @@ thumbnail: 338830.jpg
 doc-type: feature video
 activity: use
 role: User
-level: Beginner
+level: Intermediate
 exl-id: 025f5f47-a554-4e28-97e0-1a3abdd9d2e4
 ---
 # Create an approval process within a workflow

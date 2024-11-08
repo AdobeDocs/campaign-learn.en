@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: WWFRE
 role: User
-level: Beginner
+level: Intermediate
 exl-id: d627a665-732a-4d75-8b50-67c9efc4e7cd
 ---
 # Generate a descriptive analysis report

@@ -7,7 +7,7 @@ thumbnail: 338828.jpg
 doc-type: feature video
 activity: use
 role: User
-level: Beginner
+level: Intermediate
 exl-id: 3ec4074e-8829-4969-aa87-2f5a8fdefa3c
 ---
 # Configure approvals for deliveries 

@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 role: User
-level: Beginner
+level: Intermediate
 exl-id: a8cc7fed-0818-4dcb-8360-fda9dc79dae7
 ---
 # Use the update list activity to create a list with a workflow

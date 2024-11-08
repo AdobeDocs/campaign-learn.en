@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 role: User
-level: Beginner
+level: Intermediate
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
 ---
 # Create recurring and continuous email deliveries
