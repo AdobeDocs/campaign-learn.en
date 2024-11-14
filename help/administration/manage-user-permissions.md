@@ -9,8 +9,8 @@ duration: 236
 last-substantial-update: 2024-11-14
 jira: KT-15332
 thumbnail: KT-15332.jpeg
+exl-id: 2cf80aa0-36d2-46f7-9225-1509a74fa5a2
 ---
-
 # Manage User Permissions
 
 Learn how to set up and manage user permissions for Campaign v8:
