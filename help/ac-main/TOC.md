@@ -96,6 +96,7 @@ auto-video-transcripts: true
   + [Workflow Heatmap](/help/monitoring/workflow-heatmap.md)
   + [Audit Trail](/help/monitoring/audit-trail.md)
 + Administration {#administration}
+  + [Manage user permissions](/help/administration/manage-user-permissions.md)
   + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target="_blank"}
   + [Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
 + Strategy & thought leadership{#strategy}
