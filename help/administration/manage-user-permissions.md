@@ -1,7 +1,6 @@
 ---
 title: Manage User Permissions
 description: Learn how to set up and manage user permissions for Campaign v8. Add users, work with product profiles, user groups, and named rights. Add permissions on folder level.
-version: 
 feature: Permissions
 role: Admin
 level: Beginner
@@ -16,10 +15,10 @@ thumbnail: KT-15332.jpeg
 
 Learn how to set up and manage user permissions for Campaign v8:
 
- * Add users
- * Work with product profiles
- * Work with user groups
- * Named rights
- * Add permissions on folder level
+* Add users
+* Work with product profiles
+* Work with user groups
+* Named rights
+* Add permissions on folder level
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
