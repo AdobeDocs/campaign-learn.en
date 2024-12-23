@@ -16,3 +16,4 @@ exl-id: 09df20fc-b848-4cbd-aabc-8fdb1f6b22ea
 Learn how to create a newsletter in Experience Manager and how to approve and publish it to Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on){transcript=true}
+

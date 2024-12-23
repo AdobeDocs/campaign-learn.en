@@ -16,3 +16,4 @@ Connect Adobe Campaign with Adobe Experience Manager to be able to manage email 
 The following video explains what you will learn.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on){transcript=true}
+
