@@ -1,9 +1,9 @@
 ---
 cloud: Experience Cloud
 product: Adobe Campaign
-solution: Campaign, Campaign v8 Client Console
+solution: Campaign, Campaign v8, Campaign v8 Client Console
 feature-set: Campaign
-version: v8 Client Console
+version: Campaign v8, Campaign v8 Client Console
 type: Tutorial
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-learn.en
