@@ -117,11 +117,11 @@ Learn how to create an email delivery from scratch, define the audience, design 
 
 Understand how to navigate the Email Designer. Learn how to structure and design an email from scratch, how to personalize, and test your email.
 
-[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
 
 Learn how to create an email by uploading HTML, how to make it compatible with the Email Designer and how to convert it to a template.
 
-[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
 
 #### 2. Preview and test
 
