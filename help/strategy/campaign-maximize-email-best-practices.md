@@ -9,7 +9,7 @@ exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
 ---
 # Email ROI and best practices for subscriber re-engagement
 
-Email marketing is a valuable tool in developing brand loyalty and increasing sales. However, with the vast number of emails people receive every day--not to mention the other digital content they are consuming--it's important that your content stands out from the crowd. And it's important that it meets your audience's unique needs. 
+Email marketing is a valuable tool in developing brand loyalty and increasing sales. However, with the vast number of emails people receive every day - not to mention the other digital content they are consuming - it's important that your content stands out from the crowd. And it's important that it meets your audience's unique needs. 
 
 In this article, we review four strategies to improve your subscribers engagement and overall success of your email campaigns. We also discuss email fatigue, how to identify it within your audiences, and discuss simple steps you can take to improve your subscribers experience.
 
@@ -21,7 +21,7 @@ How well is your organization tracking the deliverability of your email campaign
 
 ## Spam filtering
 
-Before diving into strategy, it's important to be aware of the most common spam filter issues that could affect your campaign results. If you continue sending emails to inactive subscribers that are not opening your emails, for over a year, here are some things you may be running into:
+Before diving into strategy, it's important to be aware of the most common spam filter issues that could affect your campaign results. If you continue sending emails to inactive subscribers that are not opening your emails for over a year, here are some things you may be running into:
 
 * Blocklists and allowlists
 * Content filters
@@ -32,7 +32,7 @@ Before diving into strategy, it's important to be aware of the most common spam 
 
 ## Maximize your email ROI
 
-Did you know in just one minute on the internet, there are over one million video views, two million Google search queries, six million Facebook views, and 200 million emails sent? With so much going on, it's important to make sure that your content doesn't get lost in the noise. Particularly if you are creating a campaign during a holiday season, it's even more challenging to get your emails in front of prospective and returning customers.
+Did you know that in just one minute on the internet, there are over one million video views, two million Google search queries, six million Facebook views, and 200 million emails sent? With so much going on, it's important to make sure that your content doesn't get lost in the noise. Particularly if you are creating a campaign during a holiday season, it's even more challenging to get your emails in front of prospective and returning customers.
 
 From November through early January, the volume of marketing emails being sent increases significantly. Mailbox providers (ISPs) will have much more traffic coming to their servers than during the rest of the year and, as a result, will be even more vigilant about protecting their customers (your subscribers).
 
@@ -62,7 +62,7 @@ Here are four key strategies to maximize your ROI:
   * How many emails will you send (daily, weekly, monthly)
 
 * Send a welcome email to new subscribers:
-  * Welcome emails help ensure that subscribers aren't blindsided by new content and don't unsubscribe or mark as spam.
+  * Welcome emails help ensure that subscribers aren't blind sided by new content and don't unsubscribe or mark as spam.
   * Welcome emails are also a good indicator of performance. If they aren't being successfully delivered or interacted with, you know it's a sign of poor performance or poor data collection.
 
 ### 4. Email management
@@ -80,7 +80,7 @@ Key metrics to monitor include:
 * Lower click rates
 * Higher unsubscribe rates
 
-Unfortunately, most subscribers who experience email fatigue won't make it easy for you. They won't unsubscribe themselves, a clear flag that they are unsatisfied with content. Many simply delete your emails or ignore them, so you may still see opens from subscribers who are not engaged. The bottom line is that if you fail to react to your subscribers changing habits, it can harm your sender reputation, which ultimately hurts your overall success.
+Unfortunately, most subscribers who experience email fatigue won't make it easy for you. They won't unsubscribe themselves, a clear flag that they are unsatisfied with the content. Many simply delete your emails or ignore them, so you may still see opens from subscribers who are not engaged. The bottom line is that if you fail to react to your subscribers changing habits, it can harm your sender reputation, which ultimately hurts your overall success.
 
 With that in mind, here are some best practices for keeping your subscribers engaged and anticipating the type of content they want to receive, in order to avoid unsubscribes and inactive audiences.
 
@@ -134,5 +134,5 @@ Break down this process into two areas of focus: a) email sending patterns and b
 
 For a recap of this article and a live demo of implementing re-engagement strategies, watch our [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Learn more about strategy and thought leadership at the [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Learn more about strategy and thought leadership at the [Customer Success](https://experienceleague.adobe.com/en/docs/customer-success/customer-success/overview) hub.
 
