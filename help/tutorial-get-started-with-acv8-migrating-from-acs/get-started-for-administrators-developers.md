@@ -12,7 +12,7 @@ This tutorial gives an overview of the key administrative and data management fu
 
 ## Understand the Campaign v8 Architecture
 
-See [Get Started with Campaign architecture](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/architecture/architecture){target="_blank"} to understand the Campaign architecture before starting to structure and organize your instance.
+See [Get Started with Campaign architecture](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"} to understand the Campaign architecture before starting to structure and organize your instance.
 
 
 ## Install the client console
@@ -25,13 +25,19 @@ For more information, see [Connect to Campaign with the client console](https://
 
 ## Set up and manage access 
 
-Adobe Campaign lets you define and manage the rights assigned to users:
+1. **[Get started with permissions in Campaign v8.](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
+Learn about the overall permission model: operators, operator groups (roles), named rights, and folder permissions.
 
-* Access to certain capabilities
-* Access to certain data
-* Access to certain actions (create, modify, delete)
+2. Learn how to manage user permissions in the client console. Learn how to
 
-  See [Manage user permissions](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/admin/permissions/manage-permissions){target="_blank"}for more details.
+    * Add users via Admin Console
+    * Set up product profiles
+    * Create operator groups and assigning named rights
+    * Map product profiles ⇄ operator groups
+
+>[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+
+See the [product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} for a written detailed step by step guide.
 
 ## Configure your instance 
 
