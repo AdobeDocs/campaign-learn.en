@@ -19,8 +19,8 @@ You can access Adobe Campaign v8 via the client console or the Web User Interfac
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
 
-1. [Discover the interface](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/user-interface)
-2. [Browse and Filter List](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/list-filters)
+* [Discover the interface](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/user-interface)
+*  [Browse and Filter List](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/list-filters)
 
 ## Find help and guidance
 
@@ -32,19 +32,26 @@ You can access Adobe Campaign v8 via the client console or the Web User Interfac
 
 The general concept of creating and managing audiences in Campaign v8 is the same as in Adobe Campaign Standard.
 
-1. Learn how to access, manage, and explore profiles using the Campaign Web User Interface.
+#### Profiles
 
-    >[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
+Learn how to access, manage, and explore profiles using the Campaign Web User Interface.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
     
-    See [Get started with Profiles](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"} for more information.
+See [Get started with Profiles](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"} for more information.
 
-2. Learn how to build and manage audiences, how to select audiences for a delivery, and define control groups.
+#### Audiences
 
-    >[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
+Learn how to build and manage audiences, how to select audiences for a delivery, and define control groups.
 
-    See [Get started with Audiences](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"} for more information.
+>[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
 
-3. [Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/test-profiles){target="_blank"}
+See [Get started with Audiences](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"} for more information.
+
+### Test profiles 
+
+[Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/test-profiles){target="_blank"}
+
 
 ### Manage subscriptions
 
@@ -81,94 +88,13 @@ Use Adobe Campaign Web to manage and create your services such as newsletters, a
 
 ## Create and manage Cross-channel Campaigns and workflows
 
-The workflow is the following: 
 
 ![Campaign flow](/help/tutorial-get-started-with-acv8-migrating-from-acs/_assets/campaign-flow.png)
 
-### Create a campaign 
+### Get strated with Campaigns
 
-<!-- CARDS
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/gs-campaigns
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/manage-campaigns
-{title = Access and manage your campaigns}
-{description = Understand to access and manage campaigns}
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/create-campaigns
-{title = Create your first campaign}
-{description = To create a new campaign, define its settings, schedule, and include workflows and deliveries.}
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Get started with campaigns">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/gs-campaigns" title="Get started with campaigns" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/gs-campaigns./media_108a52b5751b82e70c440c0869437a46f10e8c605.png?width=400&format=png&optimize=medium" alt="Get started with campaigns"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/gs-campaigns" target="_blank" rel="referrer" title="Get started with campaigns">Get started with campaigns</a>
-                    </p>
-                    <p class="is-size-6">Learn how to start with cross-channel campaigns</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/gs-campaigns" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Access and manage your campaigns">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/manage-campaigns" title="Access and manage your campaigns" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/manage-campaigns./media_15156452ddedd42f1da7fd70c7da44e3d45eff1cf.png?width=400&format=png&optimize=medium" alt="Access and manage your campaigns"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/manage-campaigns" target="_blank" rel="referrer" title="Access and manage your campaigns">Access and manage your campaigns</a>
-                    </p>
-                    <p class="is-size-6">Understand to access and manage campaigns</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/manage-campaigns" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create your first campaign">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/create-campaigns" title="Create your first campaign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/create-campaigns./media_1560eba2c53211ec8eaafc1aafe682276770f5990.png?width=400&format=png&optimize=medium" alt="Create your first campaign"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/create-campaigns" target="_blank" rel="referrer" title="Create your first campaign">Create your first campaign</a>
-                    </p>
-                    <p class="is-size-6">To create a new campaign, define its settings, schedule, and include workflows and deliveries.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/create-campaigns" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+See the product documentation to  with [campaigns](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/gs-campaigns)
+
 
 ### Create a workflow
 
@@ -187,23 +113,23 @@ Learn how to create an email delivery from scratch, define the audience, design 
   
 >[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
 
-1. **Design and define content**
+#### 1. Design and define content
 
-   Understand how to navigate the Email Designer. Learn how to structure and design an email from scratch, how to personalize, and test your email.
+Understand how to navigate the Email Designer. Learn how to structure and design an email from scratch, how to personalize, and test your email.
 
-    >[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
 
-   Learn how to create an email by uploading HTML, how to make it compatible with the Email Designer and how to convert it to a template.
+Learn how to create an email by uploading HTML, how to make it compatible with the Email Designer and how to convert it to a template.
 
-    >[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
 
-2. **Preview and test**
+#### 2. Preview and test
 
-    Learn how to preview email message content and personalization, send test deliveries (proofs) and check the email rendering in popular desktop, mobile and web-based clients.
+Learn how to preview email message content and personalization, send test deliveries (proofs) and check the email rendering in popular desktop, mobile and web-based clients.
 
-    >[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
 
-3. **Send email and check logs**
+#### 3. Send email and check logs
 
 <!-- CARDS
    * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/prepare-send
