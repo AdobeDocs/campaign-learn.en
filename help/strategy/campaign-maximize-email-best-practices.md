@@ -131,3 +131,5 @@ Break down this process into two areas of focus: a) email sending patterns and b
 * **Strong subject lines** - Make sure they stand out from other brand content
 
 * **Test and learn** - a good testing plan is important to make sure that your efforts are having the desired effect. Learn what's working and what isn't and iterate accordingly.
+
+Learn more about strategy and thought leadership at the [Perspectives](https://experienceleague.adobe.com/en/perspectives) hub.
