@@ -131,11 +131,12 @@ Learn how to preview email message content and personalization, send test delive
 
 #### 3. Send email and check logs
 
-<!-- CARDS
+<!--
+CARDS
    * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/prepare-send
    * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending
    * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs
- -->
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Schedule the sending of a delivery">
@@ -292,7 +293,8 @@ Adobe Campaign v8 supports both Android&trade; and iOS Push Channel. To transiti
 
 ## Content management
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize
 * https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions
 * https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates
@@ -429,7 +431,8 @@ Adobe Campaign v8 supports both Android&trade; and iOS Push Channel. To transiti
 
 Adobe Campaign offers three different types of [standard reports](https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/gs-reports):
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports
 {title = Delivery Reports}
 {description = Offer a thorough analysis of each delivery's performance, per channel: success rates, audience engagement, and other essential metrics. They allow you to evaluate the overall effectiveness and impact of your campaign.}
@@ -518,7 +521,8 @@ Adobe Campaign offers three different types of [standard reports](https://experi
 
 ### Adobe Experience Manager
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets
 * https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content
 -->
@@ -578,7 +582,8 @@ Adobe Campaign offers three different types of [standard reports](https://experi
 
 The following integrations are available from the Adobe Campaign client console, and not yet available in the Campaign Web User Interface. Use the provided links to browse the Campaign v8 (client console) documentation and learn more about these integrations:
 
-<!-- CARDS
+<!--
+CARDS
 * https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa
 * https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud
 * https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at
