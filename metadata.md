@@ -4,10 +4,12 @@ product: Adobe Campaign
 solution: Campaign, Campaign v8, Campaign v8 Client Console
 feature-set: Campaign
 version: Campaign v8, Campaign v8 Client Console
+landing-page-name: campaign
+landing-page-breadcrumb-title: Campaign
 type: Tutorial
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-learn.en
-index: yes
+index: true
 ---
 
 # Metadata for internal use
