@@ -5,7 +5,7 @@ feature: SMS
 thumbnail: 340957.jpg
 jira: KT-9743
 role: Admin, Developer
-badgeV7V8: label = "Applies to v7 & v8" type="Positive" 
+badgeV7V8: label="Applies to v7 & v8" type="Positive" 
 last-substantial-update: 2022-08-24 
 exl-id: 267e8394-7499-45ef-8394-b216c513649a
 ---

@@ -4,7 +4,7 @@ description: Learn how to adapt the SMS connector to your SMPP provider. Fine tu
 feature: SMS
 thumbnail: 343622.jpg
 jira: KT-9741
-badgeV7V8: label = "Applies to v7 & v8" type="Positive" 
+badgeV7V8: label="Applies to v7 & v8" type="Positive" 
 role: Admin, Developer
 last-substantial-update: 2022-08-24 
 exl-id: e84d43a8-6553-4657-9383-5ea91867e811
