@@ -9,7 +9,7 @@ activity: setup
 team: TM
 role: Admin
 level: Beginner
-hide: yes
+hide: true
 hidefromtoc: yes
 exl-id: 417ef7bc-bbac-42a0-8a4f-fd04381f8b35
 ---

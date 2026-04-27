@@ -9,7 +9,7 @@ activity: setup
 team: DOC
 role: Admin, Developer
 level: Experienced
-hide: yes
+hide: true
 hidefromtoc: yes
 exl-id: 0956995a-142d-4d49-b87e-21da7b1d36b6
 ---

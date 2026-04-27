@@ -9,7 +9,7 @@ activity: set-up
 team: TM
 role: User, Developer
 level: Experienced
-hide: yes
+hide: true
 hidefromtoc: yes
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
 ---
