@@ -35,7 +35,7 @@ auto-video-transcripts: true
     + [Personalize emails using dynamic content blocks](/help/content-creation/personalize-using-dynamic-content-blocks.md)
     + [Personalize emails using personalization fields](/help/content-creation/personalize-emails-using-personalization-fields.md)
     + [Create a multilingual newsletter using conditional content](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
-    + [Define Interactive Email Content with AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
+    + {hide-from-toc} [Define Interactive Email Content with AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
   + [Configure Landing Pages](/help/content-creation/configure-landingpages.md)
   + [Create a survey](/help/content-creation/create-a-survey.md)
 + Send messages{#sending-messages}
@@ -49,8 +49,8 @@ auto-video-transcripts: true
   + SMS {#sms}
     + [Create an SMS delivery](/help/send-messages/mobile/create-an-sms-delivery.md)
   + Push {#push}
-    + [Install the Mobile App Channel](/help/send-messages/mobile/install-the-mobile-app.md)
-    + [Configure the Push channel using the Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
+    + {hide-from-toc} [Install the Mobile App Channel](/help/send-messages/mobile/install-the-mobile-app.md)
+    + {hide-from-toc} [Configure the Push channel using the Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
   + Direct mail {#direct-mail}
     + [Create direct mail deliveries](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
   + Use delivery templates{#using-delivery-templates}
@@ -88,7 +88,7 @@ auto-video-transcripts: true
   + [Integrate with Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)
   + [Integrate with Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
   + [Integrate with Adobe Target](/help/connect/target-integration.md)
-  + [Integrate with Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
+  + {hide-from-toc} [Integrate with Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
   + [Access built-in reports](/help/reporting/access-built-in-reports.md)
   + [Generate a descriptive analysis report](/help/reporting/generate-a-descriptive-analysis-report.md)
