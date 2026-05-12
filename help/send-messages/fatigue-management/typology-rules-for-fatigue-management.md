@@ -10,6 +10,16 @@ team: TM
 role: User
 level: Intermediate
 exl-id: 8a6e8580-24c2-44d9-88bc-1120bfdd9e8a
+TQID: https://experienceleague.adobe.com/gKoMz6MdwEvlmq-4479Q-OPxSjz92P-RIlu113Myhic
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Manage fatigue using typology rules
 

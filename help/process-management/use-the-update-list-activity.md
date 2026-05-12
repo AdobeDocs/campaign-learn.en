@@ -10,6 +10,16 @@ team: TM
 role: User
 level: Intermediate
 exl-id: a8cc7fed-0818-4dcb-8360-fda9dc79dae7
+TQID: https://experienceleague.adobe.com/RXL0OofM0TQYaCR9u9kjDYfVORuaxNGgvw8T6U3ruQo
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # Use the update list activity to create a list with a workflow
 

@@ -10,6 +10,15 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: fc4abd2a-a7a7-4564-b1a2-736a6b2cb5d4
+TQID: https://experienceleague.adobe.com/lpyGKMRnmtm4-OQ89BlYspGZtMNaYKWQPGpUPAU-5GY
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Configure an [!DNL Android™] service and create an [!DNL Android™] mobile application in Campaign
 
