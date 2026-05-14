@@ -11,6 +11,15 @@ role: User, Developer
 level: Experienced
 hide: true
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
+TQID: https://experienceleague.adobe.com/PvAIzI3w3MKogJVgsb9mJt3VH1IxK3z1vKLcEgP5kFQ
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Defining Interactive Email Content with AMP
 
