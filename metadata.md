@@ -11,6 +11,7 @@ product_v2:
     internal-label: "Adobe Campaign Classic v8 Client Console"
   - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
     internal-label: "Adobe Campaign v8"
+usetq: true
 landing-page-name: campaign
 landing-page-breadcrumb-title: Campaign
 type: Tutorial
