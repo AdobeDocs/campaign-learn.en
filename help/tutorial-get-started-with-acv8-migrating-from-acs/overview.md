@@ -6,10 +6,12 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog
 exl-id: bb5979f8-4ca0-49f9-a061-2c0d21ef5b67
-TQID: https://experienceleague.adobe.com/r3hYvGkxKSW2jbC6r23lfZzfMhRH-yyBmxoznaYjhPQ
+TQID: 'https://experienceleague.adobe.com/r3hYvGkxKSW2jbC6r23lfZzfMhRH-yyBmxoznaYjhPQ'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
     internal-label: Campaigns

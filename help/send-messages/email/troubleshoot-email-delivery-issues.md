@@ -10,10 +10,17 @@ team: TM
 role: User
 level: Beginner
 exl-id: c98793f7-09cc-4afe-a089-4d31b9ea611f
-TQID: https://experienceleague.adobe.com/6Zt6BTD-6F7l8kjv0CQ4-oQ34OSgHhbOuaxK3tAOQNk
+TQID: 'https://experienceleague.adobe.com/6Zt6BTD-6F7l8kjv0CQ4-oQ34OSgHhbOuaxK3tAOQNk'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
+feature_v2:
+  - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
+    internal-label: Email
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

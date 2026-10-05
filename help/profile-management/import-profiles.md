@@ -7,10 +7,18 @@ level: Beginner
 jira: KT-7968
 thumbnail: 342085.jpg
 exl-id: 30d654f3-086e-4e67-b835-d6f263540618
-TQID: https://experienceleague.adobe.com/8-M7mWh51DLNgiptQG1mDXHuOLTMV0OXWe36zGC--3Q
+TQID: 'https://experienceleague.adobe.com/8-M7mWh51DLNgiptQG1mDXHuOLTMV0OXWe36zGC--3Q'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
+feature_v2:
+  - id: afa4204e-6d08-4e29-bc35-26aafb656d48
+    internal-label: Profiles and audiences
+subfeature_v2:
+  - id: f529d0bd-1401-4c88-9833-43228cc1d40f
+    internal-label: Profiles
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

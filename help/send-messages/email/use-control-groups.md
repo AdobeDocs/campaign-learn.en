@@ -10,10 +10,15 @@ team: WWFRE
 role: User
 level: Intermediate
 exl-id: 2f756353-7b06-4786-8582-38d80288a5e3
-TQID: https://experienceleague.adobe.com/aveH2VpGzdgqSUz7cwmvFceJXjISoK9JVnP0FDJmuuU
+TQID: 'https://experienceleague.adobe.com/aveH2VpGzdgqSUz7cwmvFceJXjISoK9JVnP0FDJmuuU'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
+feature_v2:
+  - id: e9810a15-b7f9-542e-81ab-fba1bff301c3
+    internal-label: Control Groups
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

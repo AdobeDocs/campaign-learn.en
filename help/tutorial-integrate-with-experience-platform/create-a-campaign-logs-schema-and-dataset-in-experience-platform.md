@@ -10,13 +10,21 @@ team: TM
 role: Developer
 level: Experienced
 exl-id: f10c7a18-8ba3-4527-a92b-bc95403042c8
-TQID: https://experienceleague.adobe.com/K5z01Go-6WK4Cr4iKmct-uxwZT6aQ1LaTLkEajdHTGY
+TQID: 'https://experienceleague.adobe.com/K5z01Go-6WK4Cr4iKmct-uxwZT6aQ1LaTLkEajdHTGY'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
+feature_v2:
+  - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
     internal-label: Data management

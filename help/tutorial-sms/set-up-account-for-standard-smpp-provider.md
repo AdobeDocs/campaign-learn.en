@@ -1,6 +1,6 @@
 ---
 title: Set up an SMS account for a standard SMPP provider
-description: Learn how to set up an SMPP account with Adobe Campaign, how to analyze SMS delivery results, and customize the SR processing to your SMPP provider's specifications. 
+description: "Learn how to set up an SMPP account with Adobe Campaign, how to analyze SMS delivery results, and customize the SR processing to your SMPP provider's specifications.\_"
 feature: SMS
 thumbnail: 343607.jpg
 role: Admin, Developer
@@ -8,10 +8,18 @@ jira: KT-9742
 badgeV7V8: label="Applies to v7 & v8" type="Positive"
 last-substantial-update: 2022-08-24T00:00:00.000Z
 exl-id: c057d743-ca6a-44c7-a93a-d6652dba8e7b
-TQID: https://experienceleague.adobe.com/TGrZRtCUy83-fipyUcoQWSZHYrTW4auhl0Sduql4euo
+TQID: 'https://experienceleague.adobe.com/TGrZRtCUy83-fipyUcoQWSZHYrTW4auhl0Sduql4euo'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: b1bd1421-1927-4c59-9bc6-ce292360e43b
+    internal-label: SMS Messaging
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
