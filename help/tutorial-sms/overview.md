@@ -3,9 +3,25 @@ title: Technical Tutorial - Set up SMS for Adobe Campaign
 description: Learn how to configure an SMS account for SMTP providers and how to analyze and troubleshoot the configuration.
 feature: SMS
 role: Admin, Developer
-badgeV7V8: label="Applies to v7 & v8" type="Positive" 
+badgeV7V8: label="Applies to v7 & v8" type="Positive"
 thumbnail: 340957.jpg
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: b1bd1421-1927-4c59-9bc6-ce292360e43b
+    internal-label: SMS Messaging
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # Technical Tutorial - Set up SMS for Adobe Campaign
 

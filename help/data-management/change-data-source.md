@@ -9,10 +9,12 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 6e308d06-e384-46e2-9e14-9e3f6c80c386
-TQID: https://experienceleague.adobe.com/Qdd3m1D9BETkwbD7WNQ5oMARQ9WK056b6nup-bbAGuM
+TQID: 'https://experienceleague.adobe.com/Qdd3m1D9BETkwbD7WNQ5oMARQ9WK056b6nup-bbAGuM'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
 feature_v2:
   - id: a658c786-869b-4194-a780-2594d663adda
     internal-label: Data management

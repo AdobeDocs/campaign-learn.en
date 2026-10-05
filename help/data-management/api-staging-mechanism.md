@@ -9,10 +9,15 @@ team: TM
 role: Admin, Developer
 level: Intermediate
 exl-id: f61a1d00-694a-4727-8a24-959cb0258046
-TQID: https://experienceleague.adobe.com/hhlAynISAYQ42sCv5jD-VCJX4PAMSnhtiRkP7MUZ7fc
+TQID: 'https://experienceleague.adobe.com/hhlAynISAYQ42sCv5jD-VCJX4PAMSnhtiRkP7MUZ7fc'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
+feature_v2:
+  - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

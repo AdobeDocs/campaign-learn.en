@@ -5,10 +5,12 @@ role: Admin, Developer
 level: Beginner, Experienced
 jira: KT-15787
 exl-id: 29e7cde2-a611-41f8-aa7b-c05be0b53313
-TQID: https://experienceleague.adobe.com/vzYrKmxSTfLFaMvTIceDWayKII-8LvD20po1lbvqtTU
+TQID: 'https://experienceleague.adobe.com/vzYrKmxSTfLFaMvTIceDWayKII-8LvD20po1lbvqtTU'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
 feature_v2:
   - id: a658c786-869b-4194-a780-2594d663adda
     internal-label: Data management
@@ -25,6 +27,8 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
